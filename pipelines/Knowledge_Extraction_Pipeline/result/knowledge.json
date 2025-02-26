@@ -1,0 +1,681 @@
+[
+    {
+        "subject": "fuel injector",
+        "predicate": "sprays",
+        "object": "gasoline",
+        "start": 0.509,
+        "end": 29.091
+    },
+    {
+        "subject": "fuel injector",
+        "predicate": "part of",
+        "object": "engine",
+        "start": 0.509,
+        "end": 29.091
+    },
+    {
+        "subject": "engine",
+        "predicate": "has",
+        "object": "94 parts",
+        "start": 0.509,
+        "end": 29.091
+    },
+    {
+        "subject": "engine",
+        "predicate": "specifically",
+        "object": "Honda D15 engine",
+        "start": 0.509,
+        "end": 29.091
+    },
+    {
+        "subject": "video",
+        "predicate": "will cover",
+        "object": "assembly of Honda D15 engine",
+        "start": 0.509,
+        "end": 29.091
+    },
+    {
+        "subject": "video",
+        "predicate": "will explain",
+        "object": "each part of the engine",
+        "start": 0.509,
+        "end": 29.091
+    },
+    {
+        "subject": "piston",
+        "predicate": "is attached to",
+        "object": "connecting rod via a wrist pin",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "connecting rod",
+        "predicate": "has",
+        "object": "a crankshaft bearing",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "crankshaft bearing",
+        "predicate": "minimizes",
+        "object": "wear and allows smooth rotation",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "rod cap",
+        "predicate": "holds",
+        "object": "the other end of the connecting rod onto the crankshaft",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "piston",
+        "predicate": "moves",
+        "object": "down the inside of a cylinder",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "piston",
+        "predicate": "draws in",
+        "object": "an air-fuel mixture",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "piston",
+        "predicate": "compresses",
+        "object": "the air-fuel mixture",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "air-fuel mixture",
+        "predicate": "is ignited by",
+        "object": "a spark plug",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "combustion",
+        "predicate": "pushes",
+        "object": "the piston back down",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "piston",
+        "predicate": "returns to the top",
+        "object": "pushing out exhaust gases",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "process",
+        "predicate": "gets",
+        "object": "the crankshaft spinning",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "crankshaft",
+        "predicate": "spins",
+        "object": "the transmission",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "transmission",
+        "predicate": "spins",
+        "object": "the drive shaft",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "drive shaft",
+        "predicate": "spins",
+        "object": "the wheels",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "engine",
+        "predicate": "has",
+        "object": "six systems",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "six systems",
+        "predicate": "include",
+        "object": "rotating assembly",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "six systems",
+        "predicate": "include",
+        "object": "timing",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "six systems",
+        "predicate": "include",
+        "object": "cooling",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "six systems",
+        "predicate": "include",
+        "object": "air flow",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "six systems",
+        "predicate": "include",
+        "object": "electrical",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "six systems",
+        "predicate": "include",
+        "object": "fueling",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "engine",
+        "predicate": "needs",
+        "object": "a strong, sealed combustion chamber",
+        "start": 31.332,
+        "end": 124.709
+    },
+    {
+        "subject": "Mother's Polish",
+        "predicate": "eliminates",
+        "object": "odors",
+        "start": 182.978,
+        "end": 195.08
+    },
+    {
+        "subject": "Mother's Polish",
+        "predicate": "refreshes",
+        "object": "car",
+        "start": 182.978,
+        "end": 195.08
+    },
+    {
+        "subject": "Mother's Polish",
+        "predicate": "destroys",
+        "object": "99% of odors",
+        "start": 182.978,
+        "end": 195.08
+    },
+    {
+        "subject": "Mother's Polish",
+        "predicate": "works against",
+        "object": "mildew, pet smells, old food",
+        "start": 182.978,
+        "end": 195.08
+    },
+    {
+        "subject": "car",
+        "predicate": "start",
+        "object": "car",
+        "start": 195.6,
+        "end": 202.661
+    },
+    {
+        "subject": "windows",
+        "predicate": "close",
+        "object": "windows",
+        "start": 195.6,
+        "end": 202.661
+    },
+    {
+        "subject": "AC",
+        "predicate": "set",
+        "object": "max cold",
+        "start": 195.6,
+        "end": 202.661
+    },
+    {
+        "subject": "fan",
+        "predicate": "set",
+        "object": "high",
+        "start": 195.6,
+        "end": 202.661
+    },
+    {
+        "subject": "recirculate",
+        "predicate": "make sure on",
+        "object": "recirculate",
+        "start": 195.6,
+        "end": 202.661
+    },
+    {
+        "subject": "crankshaft support bracket",
+        "predicate": "uses",
+        "object": "little Preston dowel pins",
+        "start": 256.611,
+        "end": 274.017
+    },
+    {
+        "subject": "rear main seal",
+        "predicate": "keeps oil from leaking",
+        "object": "back of the engine",
+        "start": 256.611,
+        "end": 274.017
+    },
+    {
+        "subject": "car from the 90s",
+        "predicate": "has a problem with",
+        "object": "leaking rear main seal",
+        "start": 256.611,
+        "end": 274.017
+    },
+    {
+        "subject": "intake and exhaust valves",
+        "predicate": "function",
+        "object": "let fresh air into the combustion chamber and let waste gases out",
+        "start": 373.427,
+        "end": 380.289
+    },
+    {
+        "subject": "valves",
+        "predicate": "are held closed by",
+        "object": "valve springs",
+        "start": 380.869,
+        "end": 432.165
+    },
+    {
+        "subject": "valve springs",
+        "predicate": "are held in place with",
+        "object": "valve spring retainers",
+        "start": 380.869,
+        "end": 432.165
+    },
+    {
+        "subject": "valves",
+        "predicate": "are pushed open using",
+        "object": "camshaft",
+        "start": 380.869,
+        "end": 432.165
+    },
+    {
+        "subject": "camshaft",
+        "predicate": "has",
+        "object": "offset lobes",
+        "start": 380.869,
+        "end": 432.165
+    },
+    {
+        "subject": "camshaft",
+        "predicate": "spins inside",
+        "object": "camshaft bearings",
+        "start": 380.869,
+        "end": 432.165
+    },
+    {
+        "subject": "camshaft",
+        "predicate": "pushes on",
+        "object": "rocker arms",
+        "start": 380.869,
+        "end": 432.165
+    },
+    {
+        "subject": "rocker arms",
+        "predicate": "pivot on",
+        "object": "rocker arm shaft",
+        "start": 380.869,
+        "end": 432.165
+    },
+    {
+        "subject": "rocker arm shaft",
+        "predicate": "pushes on",
+        "object": "valves",
+        "start": 380.869,
+        "end": 432.165
+    },
+    {
+        "subject": "valves",
+        "predicate": "run through",
+        "object": "valve stem seal",
+        "start": 380.869,
+        "end": 432.165
+    },
+    {
+        "subject": "valve stem seal",
+        "predicate": "keeps oil",
+        "object": "lubricating the assembly",
+        "start": 380.869,
+        "end": 432.165
+    },
+    {
+        "subject": "camshaft",
+        "predicate": "spins",
+        "object": "valve assembly",
+        "start": 380.869,
+        "end": 432.165
+    },
+    {
+        "subject": "valve assembly",
+        "predicate": "opens and closes",
+        "object": "as the camshaft spins",
+        "start": 380.869,
+        "end": 432.165
+    },
+    {
+        "subject": "valve",
+        "predicate": "should not open",
+        "object": "during combustion stroke",
+        "start": 437.258,
+        "end": 447.222
+    },
+    {
+        "subject": "alternator",
+        "predicate": "held_in_place_by",
+        "object": "alternator_bracket_and_tensioner",
+        "start": 572.476,
+        "end": 617.824
+    },
+    {
+        "subject": "electric_current",
+        "predicate": "induced_by",
+        "object": "spinning_an_electromagnet",
+        "start": 572.476,
+        "end": 617.824
+    },
+    {
+        "subject": "electromagnet",
+        "predicate": "spun_by",
+        "object": "alternator_pulley",
+        "start": 572.476,
+        "end": 617.824
+    },
+    {
+        "subject": "pulley",
+        "predicate": "driven_by",
+        "object": "harmonic_balancer",
+        "start": 572.476,
+        "end": 617.824
+    },
+    {
+        "subject": "alternator",
+        "predicate": "spun_by",
+        "object": "alternator_belt",
+        "start": 572.476,
+        "end": 617.824
+    },
+    {
+        "subject": "engine",
+        "predicate": "can_get_hot",
+        "object": "due_to_exploding_fuel_combustion",
+        "start": 572.476,
+        "end": 617.824
+    },
+    {
+        "subject": "water_pump",
+        "predicate": "spinning",
+        "object": "due_to_crankshaft_spinning",
+        "start": 572.476,
+        "end": 617.824
+    },
+    {
+        "subject": "engine",
+        "predicate": "can_warm_up",
+        "object": "due_to_water_pump_spinning_in_cold_weather",
+        "start": 572.476,
+        "end": 617.824
+    },
+    {
+        "subject": "gases",
+        "predicate": "are routed through",
+        "object": "PCV system",
+        "start": 745.296,
+        "end": 774.879
+    },
+    {
+        "subject": "PCV system",
+        "predicate": "includes",
+        "object": "oil separator",
+        "start": 745.296,
+        "end": 774.879
+    },
+    {
+        "subject": "oil separator",
+        "predicate": "is",
+        "object": "a box with baffles",
+        "start": 745.296,
+        "end": 774.879
+    },
+    {
+        "subject": "PCV system",
+        "predicate": "includes",
+        "object": "PCV valve",
+        "start": 745.296,
+        "end": 774.879
+    },
+    {
+        "subject": "PCV valve",
+        "predicate": "is",
+        "object": "a one-way valve",
+        "start": 745.296,
+        "end": 774.879
+    },
+    {
+        "subject": "gases",
+        "predicate": "lead back to",
+        "object": "intake manifold",
+        "start": 745.296,
+        "end": 774.879
+    },
+    {
+        "subject": "blow-by gases",
+        "predicate": "escape",
+        "object": "through oil separator",
+        "start": 745.296,
+        "end": 774.879
+    },
+    {
+        "subject": "PCV system",
+        "predicate": "ensures",
+        "object": "only blow-by gases escape",
+        "start": 745.296,
+        "end": 774.879
+    },
+    {
+        "subject": "rotating assembly",
+        "predicate": "covered",
+        "object": "timing",
+        "start": 774.899,
+        "end": 778.341
+    },
+    {
+        "subject": "timing",
+        "predicate": "covered",
+        "object": "cooling",
+        "start": 774.899,
+        "end": 778.341
+    },
+    {
+        "subject": "cooling",
+        "predicate": "covered",
+        "object": "airflow",
+        "start": 774.899,
+        "end": 778.341
+    },
+    {
+        "subject": "ECU",
+        "predicate": "manages",
+        "object": "nearly all of the electrical functions in your car",
+        "start": 778.681,
+        "end": 832.934
+    },
+    {
+        "subject": "ECU",
+        "predicate": "processes signals from",
+        "object": "various sensors to optimize engine performance",
+        "start": 778.681,
+        "end": 832.934
+    },
+    {
+        "subject": "position sensors",
+        "predicate": "tell the ECU",
+        "object": "the timing of everything",
+        "start": 778.681,
+        "end": 832.934
+    },
+    {
+        "subject": "crankshaft position sensor",
+        "predicate": "is a type of",
+        "object": "position sensor",
+        "start": 778.681,
+        "end": 832.934
+    },
+    {
+        "subject": "cylinder position sensor",
+        "predicate": "is a type of",
+        "object": "position sensor",
+        "start": 778.681,
+        "end": 832.934
+    },
+    {
+        "subject": "throttle position sensor",
+        "predicate": "is a type of",
+        "object": "position sensor",
+        "start": 778.681,
+        "end": 832.934
+    },
+    {
+        "subject": "coolant temperature sensor",
+        "predicate": "lets the ECU know",
+        "object": "information about the coolant temperature",
+        "start": 778.681,
+        "end": 832.934
+    },
+    {
+        "subject": "intake air temperature sensor",
+        "predicate": "lets the ECU know",
+        "object": "information about the intake air temperature",
+        "start": 778.681,
+        "end": 832.934
+    },
+    {
+        "subject": "O2 sensor",
+        "predicate": "lets the ECU know",
+        "object": "how much unburnt oxygen is in the exhaust",
+        "start": 778.681,
+        "end": 832.934
+    },
+    {
+        "subject": "manifold absolute pressure sensor",
+        "predicate": "lets the ECU know",
+        "object": "how much air is getting to the cylinders",
+        "start": 778.681,
+        "end": 832.934
+    },
+    {
+        "subject": "sensors",
+        "predicate": "are linked together by",
+        "object": "the wiring harness",
+        "start": 778.681,
+        "end": 832.934
+    },
+    {
+        "subject": "fuel system",
+        "predicate": "starts with",
+        "object": "fuel tank",
+        "start": 833.415,
+        "end": 878.254
+    },
+    {
+        "subject": "fuel pump",
+        "predicate": "includes",
+        "object": "fuel filter",
+        "start": 833.415,
+        "end": 878.254
+    },
+    {
+        "subject": "fuel pump",
+        "predicate": "sends fuel to",
+        "object": "fuel rail",
+        "start": 833.415,
+        "end": 878.254
+    },
+    {
+        "subject": "fuel rail",
+        "predicate": "ends with",
+        "object": "fuel pressure regulator",
+        "start": 833.415,
+        "end": 878.254
+    },
+    {
+        "subject": "fuel pressure regulator",
+        "predicate": "maintains",
+        "object": "correct fuel pressure",
+        "start": 833.415,
+        "end": 878.254
+    },
+    {
+        "subject": "excess fuel",
+        "predicate": "is sent back to",
+        "object": "fuel tank",
+        "start": 833.415,
+        "end": 878.254
+    },
+    {
+        "subject": "fuel injector",
+        "predicate": "sprays fuel into",
+        "object": "combustion chamber",
+        "start": 833.415,
+        "end": 878.254
+    },
+    {
+        "subject": "video",
+        "predicate": "duration",
+        "object": "14 minutes and 37 seconds",
+        "start": 878.895,
+        "end": 885.582
+    },
+    {
+        "subject": "Donut",
+        "predicate": "offers",
+        "object": "back to school collection",
+        "start": 901.654,
+        "end": 909.658
+    },
+    {
+        "subject": "t-shirt",
+        "predicate": "has",
+        "object": "iridescent finish",
+        "start": 909.779,
+        "end": 913.12
+    },
+    {
+        "subject": "pack",
+        "predicate": "is",
+        "object": "smaller",
+        "start": 909.779,
+        "end": 913.12
+    },
+    {
+        "subject": "Civic",
+        "predicate": "has",
+        "object": "an air freshener",
+        "start": 924.026,
+        "end": 926.268
+    },
+    {
+        "subject": "Zooms.com",
+        "predicate": "has",
+        "object": "Donut back-to-school collection",
+        "start": 927.128,
+        "end": 932.655
+    }
+]

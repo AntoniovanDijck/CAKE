@@ -1,0 +1,21 @@
+pandas 
+scikit-learn
+nltk 
+spacy 
+transformers 
+torch==2.0.0 # transcribe_pipeline
+torchvision==0.15.1 # transcribe_pipeline
+tqdm 
+requests 
+whisperx==3.1.5 # transcribe_pipeline
+tqdm
+pydub
+chonkie
+chonkie[semantic]
+opencv-python
+matplotlib
+pytubefix
+numpy<2
+llama-cpp-python
+sentence_transformers
+faiss-cpu
