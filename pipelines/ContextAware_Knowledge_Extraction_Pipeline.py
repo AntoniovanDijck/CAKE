@@ -3,12 +3,24 @@ from Knowledge_Extraction_Pipeline.CAKE_pipeline import *
 import sys
 import os
 
-video_url = "https://www.youtube.com/watch?v=g4lHxSAyf7M"
+class CAKE:
+    def __init__(self):
+        pass    
 
-def ContextAware_Knowledge_Extraction_Pipeline(video_url = "https://www.youtube.com/watch?v=g4lHxSAyf7M"):
-    
-    Semantic_Context_Transcription_Pipeline(video_url)
+    def ContextAware_Knowledge_Extraction_Pipeline(self, video_url):
+        Semantic_Context_Transcription_Pipeline(video_url)
+        Knowledge_Extraction_Pipeline()
 
-    Knowledge_Extraction_Pipeline()
+    def run(self, video_url):
+        self.ContextAware_Knowledge_Extraction_Pipeline(video_url)
 
-ContextAware_Knowledge_Extraction_Pipeline(video_url)
+    def evaluate(self):
+        pass
+
+
+#example usage
+video_url1 = "https://www.youtube.com/watch?v=g4lHxSAyf7M" #How the EVAP System Works (car engine)
+video_url2 = "https://www.youtube.com/watch?v=JYbJb6N1j7Y" #Refrigerator Compressor Troubleshooting (Complete Guide) | Repair & Replace
+
+CAKE().run(video_url2)
+

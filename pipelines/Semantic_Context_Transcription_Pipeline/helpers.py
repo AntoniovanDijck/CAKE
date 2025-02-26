@@ -8,7 +8,7 @@ def download_and_convert_to_wav(youtube_url, output_wav_path):
     """
     print(f"Downloading audio from {youtube_url}...")
     audio_file = "temp_audio.mp4"  # Temporary file
-    os.system(f'yt-dlp -f "bestaudio" -o "{audio_file}" "{youtube_url}"')
+    os.system(f'yt-dlp -f "worstaudio" -o "{audio_file}" "{youtube_url}"')
 
     print("Converting to WAV format...")
     audio = AudioSegment.from_file(audio_file)
@@ -26,7 +26,7 @@ def download_video(youtube_url, output_video_path):
         output_template = "temp_video.mp4"
 
         command = [
-            "yt-dlp", "-f", "bestvideo[ext=mp4]", "-o", output_template, youtube_url
+            "yt-dlp", "-f", "worstvideo[ext=mp4]", "-o", output_template, youtube_url
         ]
 
         subprocess.run(command, check=True)
