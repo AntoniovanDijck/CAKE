@@ -5,11 +5,9 @@
 ### Author: Antonio A.C. van Dijck  
 **Student Number:** 12717673  
 **Bachelor Thesis**  
-**Credits:** 18 EC  
-**Bachelor Informatiekunde**  
+**Bachelor Information Sciences**  
 **University of Amsterdam**  
 **Faculty of Science**  
-**Science Park 900, 1098 XH Amsterdam**
 
 ### Supervisor  
 **Dr. J. Helmus**  
@@ -17,7 +15,6 @@
 **Informatics Institute**  
 **Faculty of Science**  
 **University of Amsterdam**  
-**Science Park 900, 1098 XH Amsterdam**
 
 ## Overview
 CAKE (Context-Aware Knowledge Extraction) is a research project focused on improving the performance of Large Language Models (LLMs) by extracting and utilizing contextual knowledge from multiple modalities, such as video, audio, and text. The project aims to bridge the gap between structured knowledge management and AI-driven decision support.
