@@ -2,20 +2,6 @@
 
 ## Improving the Performance of LLMs with Knowledge Extraction
 
-### Author: Antonio A.C. van Dijck  
-**Student Number:** 12717673  
-**Bachelor Thesis**  
-**Bachelor Information Sciences**  
-**University of Amsterdam**  
-**Faculty of Science**  
-
-### Supervisor  
-**Dr. J. Helmus**  
-**Dr. S. van Splunter**  
-**Informatics Institute**  
-**Faculty of Science**  
-**University of Amsterdam**  
-
 ## Overview
 CAKE (Context-Aware Knowledge Extraction) is a research project focused on improving the performance of Large Language Models (LLMs) by extracting and utilizing contextual knowledge from multiple modalities, such as video, audio, and text. The project aims to bridge the gap between structured knowledge management and AI-driven decision support.
 
@@ -71,9 +57,22 @@ The framework successfully extracts and structures critical knowledge, leading t
 - Exploring the impact of the top-k parameter of the retrieved knowledge on the quality of generated responses.
 - Implementing SAM-2 and Visual Question Answering Model (VQA) for multi-modal knowledge extraction.
 
-
 ## References
 For a comprehensive list of related research and citations, please refer to the **Bibliography** section in the thesis document.
 
 ## Acknowledgements
 I would like to express my sincere gratitude to my supervisors, **Dr. S. van Splunter** and **Dr. J. Helmus** , for their invaluable guidance and support throughout this research. Also a special thanks to Jesse for their insights and collaboration.
+
+### Author: Antonio A.C. van Dijck  
+**Student Number:** 12717673  
+**Bachelor Thesis**  
+**Bachelor Information Sciences**  
+**University of Amsterdam**  
+**Faculty of Science**  
+
+### Supervisor  
+**Dr. J. Helmus**  
+**Dr. S. van Splunter**  
+**Informatics Institute**  
+**Faculty of Science**  
+**University of Amsterdam**  
