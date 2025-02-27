@@ -48,11 +48,11 @@ This research introduces an AI-driven pipeline that systematically processes mul
    - Implementing FAISS for fast similarity search.
 
 ## Technologies Used
-- **LLMs**: Llama 2, GPT-4, StableBeluga-13B
+- **LLMs**: Llama3.2-11B, Qwen2.5-7B
 - **Speech-to-Text**: Whisper
-- **Chunking & Segmentation**: Chonkie, SAM 2 (Segment Anything Model)
-- **Knowledge Retrieval**: FAISS (Facebook AI Similarity Search)
-- **Frameworks & Libraries**: TensorFlow, PyTorch, Hugging Face, OpenAI API
+- **Chunking & Segmentation**: Chonkie, SAM-2 (Segment Anything Model)
+- **Knowledge Retrieval & Vector Database**: FAISS (Facebook AI Similarity Search)
+- **Frameworks & Libraries**: TensorFlow, PyTorch, Hugging Face, React, Flask, LLama_cpp
 
 ## Key Contributions
 - Development of a structured knowledge extraction framework.
@@ -61,15 +61,19 @@ This research introduces an AI-driven pipeline that systematically processes mul
 - Exploration of knowledge graphs and their role in AI-driven decision-making.
 
 ## Results & Findings
-The framework successfully extracts and structures tacit knowledge, leading to improved accuracy in LLM-generated responses. The FAISS-based retrieval system enhances real-time knowledge access for technical support applications, reducing dependency on static documentation.
+The framework successfully extracts and structures critical knowledge, leading to improved accuracy in LLM-generated responses. The FAISS-based retrieval system enhances real-time knowledge access for technical support applications, reducing dependency on static documentation for example.
 
 ## Future Work
 - Further optimization of retrieval mechanisms.
+- Further optimization of knowledge graph construction algorithms and ontology.
 - Exploring the impact of real-time knowledge updates.
-- Addressing ethical concerns in AI-driven knowledge management.
+- Exploring methods of knowledge management.
+- Exploring the impact of the top-k parameter of the retrieved knowledge on the quality of generated responses.
+- Implementing SAM-2 and Visual Question Answering Model (VQA) for multi-modal knowledge extraction.
+
 
 ## References
 For a comprehensive list of related research and citations, please refer to the **Bibliography** section in the thesis document.
 
 ## Acknowledgements
-I would like to express my sincere gratitude to my supervisor, **Dr. S. van Splunter**, for his invaluable guidance and support throughout this research. Special thanks to my colleagues and fellow researchers for their insights and collaboration.
+I would like to express my sincere gratitude to my supervisors, **Dr. S. van Splunter** and **Dr. J. Helmus** , for their invaluable guidance and support throughout this research. Also a special thanks to Jesse for their insights and collaboration.
