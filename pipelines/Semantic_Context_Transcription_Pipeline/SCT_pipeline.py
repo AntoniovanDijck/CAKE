@@ -12,8 +12,6 @@ def Semantic_Context_Transcription_Pipeline(input_link = "https://www.youtube.co
         # Download and convert to wav and download video
         process_links_from_file(input_link)
 
-        transcribe(audio_path)
-
         # Process all WAV files in the folder
         for filename in os.listdir("pipelines/Semantic_Context_Transcription_Pipeline/data/audio_data"):
             if filename.endswith(".wav"):
@@ -21,7 +19,7 @@ def Semantic_Context_Transcription_Pipeline(input_link = "https://www.youtube.co
                 transcribe(audio_path)
         print("All audio and video files downloaded and converted!")
     else:
-        process_links_from_file(input_link)
+        #process_links_from_file(input_link)
 
         print("Video data found. Skipping download...")
 
@@ -41,4 +39,4 @@ def Semantic_Context_Transcription_Pipeline(input_link = "https://www.youtube.co
     output_folder = 'pipelines/Semantic_Context_Transcription_Pipeline/result'
     process_text_and_json(text_folder, json_folder, output_folder)
 
-# result at: pipelines/Semantic_Context_Transcription_Pipeline/data/transcription_data/output_audio_1_chunks.json
+# result op: pipelines/Semantic_Context_Transcription_Pipeline/data/transcription_data/output_audio_1_chunks.json
