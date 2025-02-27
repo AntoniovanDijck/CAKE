@@ -33,19 +33,19 @@ Traditional knowledge management systems rely on structured databases and predef
 - What are the computational and ethical considerations in deploying such a framework?
 
 ## Approach
-This research introduces an AI-driven pipeline that systematically processes multi-modal data to extract, structure, and retrieve tacit knowledge. The framework includes:
+This research introduces an Context-Aware Knowledge Extraction pipeline that automatically processes multi-modal (video, audio or text) data to extract, structure, and retrieve valuable knowledge. The framework includes:
 
 1. **Semantic Context Transcription Pipeline**
    - Audio data processing using Whisper and TensorFlow LLama.ccp.
-   - Text chunking for contextual coherence.
+   - Text chunking using Semantic Double-Pass Merging for improved context preservation chunking.
 
 2. **Semantic Knowledge Extraction Pipeline**
    - Local AI processing for efficient knowledge extraction.
    - Contextual embeddings for improved knowledge representation.
 
 3. **Integration of Pipelines**
-   - Combining extracted knowledge with Retrieval-Augmented Generation (RAG).
-   - Implementing FAISS for fast similarity search.
+   - Combining extracted knowledge with Large Language Model to improve accuracy of generated responses.
+   - Implementing FAISS for fast similarity search for extracted knowledge in the vector database.
 
 ## Technologies Used
 - **LLMs**: Llama3.2-11B, Qwen2.5-7B
@@ -57,11 +57,11 @@ This research introduces an AI-driven pipeline that systematically processes mul
 ## Key Contributions
 - Development of a structured knowledge extraction framework.
 - Integration of multi-modal data for improved LLM context-awareness.
-- Implementation of a FAISS-based retrieval mechanism.
-- Exploration of knowledge graphs and their role in AI-driven decision-making.
+- Implementation of a FAISS-based vector database retrieval mechanism.
+- Exploration of knowledge graphs and their role for Large Language Models.
 
 ## Results & Findings
-The framework successfully extracts and structures critical knowledge, leading to improved accuracy in LLM-generated responses. The FAISS-based retrieval system enhances real-time knowledge access for technical support applications, reducing dependency on static documentation for example.
+The framework successfully extracts and structures critical knowledge, leading to improved accuracy in LLM-generated responses. The FAISS-based retrieval system enhances real-time knowledge access for technical support applications, reducing dependency on static documentation or Retrieval Augmented Generation (RAG).
 
 ## Future Work
 - Further optimization of retrieval mechanisms.
