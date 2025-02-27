@@ -63,7 +63,7 @@ For a comprehensive list of related research and citations, please refer to the 
 ## Acknowledgements
 I would like to express my sincere gratitude to my supervisors, **Dr. S. van Splunter** and **Dr. J. Helmus** , for their invaluable guidance and support throughout this research. Also a special thanks to Jesse for their insights and collaboration.
 
-### Author: Antonio A.C. van Dijck  
+### Author: Antonio Adrian Cornelis van Dijck  
 **Student Number:** 12717673  
 **Bachelor Thesis**  
 **Bachelor Information Sciences**  
