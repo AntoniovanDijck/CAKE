@@ -58,14 +58,14 @@ cd CAKE
 ### Running the CAKE Pipeline
 The CAKE pipeline provides flexibility to execute different components as needed. You can run the **knowledge extraction pipeline**, **evaluate the pipeline**, and **test extracted knowledge via chatbot** using command-line arguments.
 
-### Install Dependencies
+#### Install Dependencies
 Before running the pipeline, install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Running Specific Components
+#### Running Specific Components
 Use the following command-line arguments to run specific components:
 
 - `-run` → Run the **knowledge extraction pipeline**.
@@ -88,7 +88,7 @@ python main.py -chat
 python main.py -run_all
 ```
 
-### Changing the data
+#### Changing the data
 ```bash
 # Change video_url in main.py to the desired video link
 video_url = "https://www.youtube.com/watch?v=example"
