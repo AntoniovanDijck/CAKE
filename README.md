@@ -116,7 +116,9 @@ The CAKE demo web application provides an interactive interface to test the know
 cd CAKE_webapp
 pip install -r requirements.txt
 npm install
+```
 
+```bash
 # Run the web application
 # Don't forget to put a openAI API key in the backend/app.py file!
 npm run dev & python backend/app.py
