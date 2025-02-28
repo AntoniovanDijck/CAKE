@@ -137,14 +137,17 @@ The framework successfully extracts and structures critical knowledge, leading t
 ### Evaluation Results
 #### Accuracy
 The evaluation results show a significant improvement in the accuracy of LLM-generated responses when using the extracted knowledge. The framework's ability to retrieve contextually relevant knowledge contributes to more accurate and informative responses.
+
 ![Accuracy Results 8 LLM's](./result_acc.png)
 
 #### Improvement
 The framework's integration with LLMs results in a substantial improvement in the quality of generated responses. The extracted knowledge enhances the context-awareness of LLMs, leading to more relevant and accurate answers.
+
 ![Improvement Results 8 LLM's](./result_impr.png)  
 
 ### Knowledge Graph Visualization
 The knowledge graph visualization provides an intuitive representation of the extracted knowledge, enabling users to explore the relationships between different concepts and entities. The graph visualization enhances the understanding of complex knowledge structures and facilitates knowledge discovery.
+
 ![Knowledge Graph Visualization](./knowledge_graph.png)
 
 
