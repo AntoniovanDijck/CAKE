@@ -1,5 +1,5 @@
 # CAKE: Context-Aware Knowledge Extraction
-#### Improving the Performance of LLMs with Knowledge Extraction
+The Context-Aware Knowledge Extraction framework is designed to improve the Performance of LLMs with Knowledge Extraction aglorithms. The framework is designed to extract and utilize contextual knowledge from multiple modalities, such as video, audio, and text.
 
 ## Overview
 CAKE (Context-Aware Knowledge Extraction) is a research project focused on improving the performance of Large Language Models (LLMs) by extracting and utilizing contextual knowledge from multiple modalities, such as video, audio, and text. The project aims to bridge the gap between structured knowledge management and AI-driven decision support.
