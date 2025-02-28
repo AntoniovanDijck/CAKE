@@ -1,0 +1,3410 @@
+[
+    {
+        "subject": "the user",
+        "predicate": "is playing",
+        "object": "Elden Ring",
+        "timestamp": "2024-12-19T00:30:13.856992"
+    },
+    {
+        "subject": "the user",
+        "predicate": "views",
+        "object": "Elden Ring as",
+        "timestamp": "2024-12-19T00:30:13.856999"
+    },
+    {
+        "subject": "Elden Ring",
+        "predicate": "is considered",
+        "object": "the most secret game of the world",
+        "timestamp": "2024-12-19T00:30:13.857001"
+    },
+    {
+        "subject": "the user",
+        "predicate": "wants to",
+        "object": "eat apples",
+        "timestamp": "2024-12-19T00:30:13.857003"
+    },
+    {
+        "subject": "Elden Ring",
+        "predicate": "release date",
+        "object": "yetserday",
+        "timestamp": "2024-12-19T00:47:57.265036"
+    },
+    {
+        "subject": "John Locke",
+        "predicate": "key location",
+        "object": "locker",
+        "timestamp": "2024-12-19T00:47:57.265039"
+    },
+    {
+        "subject": "Eiffel Tower",
+        "predicate": "color",
+        "object": "brownish-red",
+        "timestamp": "2024-12-19T00:49:16.904830"
+    },
+    {
+        "subject": "Eiffel Tower",
+        "predicate": "is working with",
+        "object": "Antonio van Dijck",
+        "timestamp": "2024-12-19T00:51:56.878330"
+    },
+    {
+        "subject": "wallet",
+        "predicate": "location",
+        "object": "floor",
+        "timestamp": "2024-12-19T01:22:50.372690"
+    },
+    {
+        "subject": "freezer",
+        "predicate": "condition",
+        "object": "warm",
+        "timestamp": "2024-12-19T01:22:50.372695"
+    },
+    {
+        "subject": "freezer",
+        "predicate": "indication",
+        "object": "stinking",
+        "timestamp": "2024-12-19T01:22:50.372696"
+    },
+    {
+        "subject": "freezer",
+        "predicate": "action",
+        "object": "clean",
+        "timestamp": "2024-12-19T01:22:50.372698"
+    },
+    {
+        "subject": "user",
+        "predicate": "favourite number",
+        "object": "21",
+        "timestamp": "2025-01-19T23:37:18.130908"
+    },
+    {
+        "subject": "user",
+        "predicate": "dog's name",
+        "object": "sloffie",
+        "timestamp": "2025-01-19T23:37:18.130914"
+    },
+    {
+        "subject": "user",
+        "predicate": "asked",
+        "object": "dog's name",
+        "timestamp": "2025-01-19T23:38:06.311002"
+    },
+    {
+        "subject": "you",
+        "predicate": "danced",
+        "object": "yesterday",
+        "timestamp": "2025-01-19T23:39:50.804129"
+    },
+    {
+        "subject": "veiligheid",
+        "predicate": "is essentieel",
+        "object": "aanraken van vriezer",
+        "timestamp": "2025-01-21T02:35:18.958360"
+    },
+    {
+        "subject": "stekker",
+        "predicate": "trekken",
+        "object": "voordat aanraken",
+        "timestamp": "2025-01-21T02:35:18.958369"
+    },
+    {
+        "subject": "stroom",
+        "predicate": "uit de vriezer halen",
+        "object": "voordat aanraken",
+        "timestamp": "2025-01-21T02:35:18.958372"
+    },
+    {
+        "subject": "compressor",
+        "predicate": "zoemend geluid maken",
+        "object": "normaal",
+        "timestamp": "2025-01-21T02:35:18.958375"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "piepend of schurend geluid maken",
+        "object": "aan het werk",
+        "timestamp": "2025-01-21T02:35:18.958377"
+    },
+    {
+        "subject": "condensor",
+        "predicate": "verdienen",
+        "object": "gezien te worden",
+        "timestamp": "2025-01-21T02:35:18.958378"
+    },
+    {
+        "subject": "stof",
+        "predicate": "verwijderen",
+        "object": "condensor",
+        "timestamp": "2025-01-21T02:35:18.958384"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "blokkeren",
+        "object": "door ijs",
+        "timestamp": "2025-01-21T02:35:18.958385"
+    },
+    {
+        "subject": "compressor",
+        "predicate": "proberen te draaien",
+        "object": "als probleem",
+        "timestamp": "2025-01-21T02:35:18.958387"
+    },
+    {
+        "subject": "thermostaat",
+        "predicate": "reguleren",
+        "object": "temperatuur in vriezer",
+        "timestamp": "2025-01-21T02:35:18.958388"
+    },
+    {
+        "subject": "thermostaat",
+        "predicate": "probleem",
+        "object": "bedrading of relais",
+        "timestamp": "2025-01-21T02:35:18.958390"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "goed onderhouden",
+        "object": "langer mee gaat, efficientier werkt en bespaart geld",
+        "timestamp": "2025-01-21T02:39:31.386081"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "optimaliseert",
+        "object": "alleen kleine aspecten dragen bij aan de algehele gezondheid van het apparaat",
+        "timestamp": "2025-01-21T02:39:31.386084"
+    },
+    {
+        "subject": "Vriezer",
+        "predicate": "kan vreemde geluiden maken",
+        "object": "zoemend geluid, piepend geluid, schurend geluid",
+        "timestamp": "2025-01-21T02:49:52.272247"
+    },
+    {
+        "subject": "Vriezer",
+        "predicate": "kan niet goed koelen",
+        "object": "geluiden, problemen",
+        "timestamp": "2025-01-21T02:49:52.272260"
+    },
+    {
+        "subject": "Vriezer",
+        "predicate": "kan niet meer werken",
+        "object": "geluiden, problemen",
+        "timestamp": "2025-01-21T02:49:52.272262"
+    },
+    {
+        "subject": "Vriezer",
+        "predicate": "moet veiligheid voorzien",
+        "object": "stekker eruit trekken, stroom uitschakelen",
+        "timestamp": "2025-01-21T02:49:52.272264"
+    },
+    {
+        "subject": "Vriezer",
+        "predicate": "moet lading eruit",
+        "object": "stroom van het apparaat haalt, wachten",
+        "timestamp": "2025-01-21T02:49:52.272265"
+    },
+    {
+        "subject": "Vriezer",
+        "predicate": "moet identificatie van probleem",
+        "object": "luisteren, geluiden",
+        "timestamp": "2025-01-21T02:49:52.272267"
+    },
+    {
+        "subject": "Vriezer",
+        "predicate": "moet condensor en ventilator inspecteren",
+        "object": "geluiden, problemen",
+        "timestamp": "2025-01-21T02:49:52.272268"
+    },
+    {
+        "subject": "compressor",
+        "predicate": "operational",
+        "object": "compressor heart of the refrigerator",
+        "timestamp": "2025-01-21T02:50:12.889111"
+    },
+    {
+        "subject": "condenser",
+        "predicate": "location",
+        "object": "behind the refrigerator",
+        "timestamp": "2025-01-21T02:50:12.889116"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "function",
+        "object": "air circulation in the freezer",
+        "timestamp": "2025-01-21T02:50:12.889118"
+    },
+    {
+        "subject": "ice buildup",
+        "predicate": "ventilator",
+        "object": "ventilator blockage",
+        "timestamp": "2025-01-21T02:50:12.889119"
+    },
+    {
+        "subject": "stiff compressor",
+        "predicate": "solution",
+        "object": "use a rubber hammer",
+        "timestamp": "2025-01-21T02:50:12.889120"
+    },
+    {
+        "subject": "thermostat",
+        "predicate": "problem",
+        "object": "temperature control issue",
+        "timestamp": "2025-01-21T02:50:12.889122"
+    },
+    {
+        "subject": "compressor",
+        "predicate": "can be damaged",
+        "object": "if not handled carefully",
+        "timestamp": "2025-01-21T02:50:34.600430"
+    },
+    {
+        "subject": "thermostat",
+        "predicate": "controls",
+        "object": "temperature in the freezer",
+        "timestamp": "2025-01-21T02:50:34.600435"
+    },
+    {
+        "subject": "thermostat",
+        "predicate": "can be faulty",
+        "object": "leading to cooling issues",
+        "timestamp": "2025-01-21T02:50:34.600437"
+    },
+    {
+        "subject": "thermostat",
+        "predicate": "can be tested",
+        "object": "by lowering its setting and listening for compressor engagement",
+        "timestamp": "2025-01-21T02:50:34.600438"
+    },
+    {
+        "subject": "bedrading or relay",
+        "predicate": "can cause compressor issues",
+        "object": "if faulty",
+        "timestamp": "2025-01-21T02:50:34.600439"
+    },
+    {
+        "subject": "thermometer",
+        "predicate": "can be used",
+        "object": "to check freezer temperature",
+        "timestamp": "2025-01-21T02:50:34.600441"
+    },
+    {
+        "subject": "door seal",
+        "predicate": "can deteriorate",
+        "object": "as the freezer ages",
+        "timestamp": "2025-01-21T02:50:34.600442"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "hoeft te worden gecontroleerd",
+        "object": "deurafdichting",
+        "timestamp": "2025-01-21T02:51:15.861909"
+    },
+    {
+        "subject": "deurafscheid",
+        "predicate": "kan veroorzaken",
+        "object": "warmte",
+        "timestamp": "2025-01-21T02:51:15.861912"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "werkt harder",
+        "object": "als deurafscheid niet goed is",
+        "timestamp": "2025-01-21T02:51:15.861914"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "kost energie",
+        "object": "als deurafscheid niet goed is",
+        "timestamp": "2025-01-21T02:51:15.861915"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "kan de levensduur verkorten",
+        "object": "als deurafscheid niet goed is",
+        "timestamp": "2025-01-21T02:51:15.861916"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "is een eenvoudige manier om te testen",
+        "object": "deurafscheid",
+        "timestamp": "2025-01-21T02:51:15.861917"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "kan leiden tot",
+        "object": "overmatig ijs",
+        "timestamp": "2025-01-21T02:51:15.861918"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "kan veroorzaken",
+        "object": "warmte",
+        "timestamp": "2025-01-21T02:51:15.861920"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "kan leiden tot",
+        "object": "vastzittende laden en deuren",
+        "timestamp": "2025-01-21T02:51:15.861921"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "is het beste om",
+        "object": "de vriezer volledig ontdooien",
+        "timestamp": "2025-01-21T02:51:15.861922"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "is een handige tip voor",
+        "object": "ontdooi",
+        "timestamp": "2025-01-21T02:51:15.861923"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "kan leiden tot",
+        "object": "temperatuurproblemen",
+        "timestamp": "2025-01-21T02:51:15.861924"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "is het belangrijk om",
+        "object": "ruimte te laten tussen voedsel en wanden",
+        "timestamp": "2025-01-21T02:51:15.861925"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "optimal temperature",
+        "object": "-18 C",
+        "timestamp": "2025-01-21T02:51:32.697592"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "air circulation",
+        "object": "lack of air circulation can cause temperature problems",
+        "timestamp": "2025-01-21T02:51:32.697596"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "ice formation",
+        "object": "can be caused by blockage of drain opening",
+        "timestamp": "2025-01-21T02:51:32.697598"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "ventilator",
+        "object": "can be blocked by dust or ice",
+        "timestamp": "2025-01-21T02:51:32.697600"
+    },
+    {
+        "subject": "Ventilator",
+        "predicate": "replacement_or_cleaning",
+        "object": "vriezer",
+        "timestamp": "2025-01-21T02:51:52.007157"
+    },
+    {
+        "subject": "Vriezer",
+        "predicate": "powering_on",
+        "object": "after_service",
+        "timestamp": "2025-01-21T02:51:52.007162"
+    },
+    {
+        "subject": "Vriezer",
+        "predicate": "temperature",
+        "object": "reaching_steady_state",
+        "timestamp": "2025-01-21T02:51:52.007164"
+    },
+    {
+        "subject": "Voorzorgsmaatregelen",
+        "predicate": "maintenance",
+        "object": "vriezer",
+        "timestamp": "2025-01-21T02:51:52.007166"
+    },
+    {
+        "subject": "Luchtvochtigheid",
+        "predicate": "influence_on_vriezer_performance",
+        "object": "high_late",
+        "timestamp": "2025-01-21T02:51:52.007167"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "werkt efficientier",
+        "object": "bij voldoende ruimte om warmte af te voeren",
+        "timestamp": "2025-01-21T02:52:10.163120"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "werkt efficientier",
+        "object": "bij voldoende vulling",
+        "timestamp": "2025-01-21T02:52:10.163125"
+    },
+    {
+        "subject": "stof",
+        "predicate": "blokkeert ventilatieopeningen",
+        "object": "van vriezer",
+        "timestamp": "2025-01-21T02:52:10.163127"
+    },
+    {
+        "subject": "luchtvochtigheid",
+        "predicate": "kan een grote invloed hebben",
+        "object": "op hoe goed vriezer werkt",
+        "timestamp": "2025-01-21T02:52:10.163128"
+    },
+    {
+        "subject": "stof",
+        "predicate": "blokkeert",
+        "object": "ventilatieopeningen van vriezers",
+        "timestamp": "2025-01-21T02:52:44.172908"
+    },
+    {
+        "subject": "stof",
+        "predicate": "vermindert",
+        "object": "efficientie van vriezers",
+        "timestamp": "2025-01-21T02:52:44.172913"
+    },
+    {
+        "subject": "verwijderen van stof",
+        "predicate": "verbetert",
+        "object": "luchtstroom rondom vriezers",
+        "timestamp": "2025-01-21T02:52:44.172916"
+    },
+    {
+        "subject": "verwijderen van stof",
+        "predicate": "reducert",
+        "object": "energieverbruik",
+        "timestamp": "2025-01-21T02:52:44.172918"
+    },
+    {
+        "subject": "geluiden",
+        "predicate": "worden",
+        "object": "gekend door het onderhoud van apparaten",
+        "timestamp": "2025-01-21T02:52:44.172919"
+    },
+    {
+        "subject": "geluiden",
+        "predicate": "helpen bij het herkennen van",
+        "object": "kleine problemen",
+        "timestamp": "2025-01-21T02:52:44.172920"
+    },
+    {
+        "subject": "geluiden",
+        "predicate": "worden",
+        "object": "gekend door het onderhoud van vriezers",
+        "timestamp": "2025-01-21T02:52:44.172921"
+    },
+    {
+        "subject": "geluiden",
+        "predicate": "zijn",
+        "object": "een vroegtijdige waarschuwing voor",
+        "timestamp": "2025-01-21T02:52:44.172923"
+    },
+    {
+        "subject": "geluiden",
+        "predicate": "helpen bij het opmerken van",
+        "object": "problemen voor ze erger worden",
+        "timestamp": "2025-01-21T02:52:44.172924"
+    },
+    {
+        "subject": "koelvloeistoffen",
+        "predicate": "worden",
+        "object": "geanalyseerd als een belangrijk onderdeel van vriezeronderhoud",
+        "timestamp": "2025-01-21T02:52:44.172926"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "behoeft",
+        "object": "regelmatig onderhoud",
+        "timestamp": "2025-01-21T02:54:26.117642"
+    },
+    {
+        "subject": "regelmatig onderhoud",
+        "predicate": "kan voorkomen",
+        "object": "problemen",
+        "timestamp": "2025-01-21T02:54:26.117647"
+    },
+    {
+        "subject": "regelmatig onderhoud",
+        "predicate": "verlengt",
+        "object": "levensduur",
+        "timestamp": "2025-01-21T02:54:26.117649"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "kan profiteren van",
+        "object": "een jaarlijkse check",
+        "timestamp": "2025-01-21T02:54:26.117650"
+    },
+    {
+        "subject": "auto",
+        "predicate": "behoeft",
+        "object": "regelmatige onderhoud",
+        "timestamp": "2025-01-21T02:54:26.117651"
+    },
+    {
+        "subject": "regelmatig onderhoud",
+        "predicate": "is niet ingewikkeld",
+        "object": "een snel inspectie",
+        "timestamp": "2025-01-21T02:54:26.117652"
+    },
+    {
+        "subject": "onderhoud",
+        "predicate": "is nodig",
+        "object": "om levensduur van vriezer te verlengen",
+        "timestamp": "2025-01-21T02:54:26.117654"
+    },
+    {
+        "subject": "onderhoud",
+        "predicate": "kan voorkomen",
+        "object": "dat kleine problemen uitgroeien tot grote, dure reparaties",
+        "timestamp": "2025-01-21T02:54:26.117655"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "behoeft",
+        "object": "veiligheidsmaatregelen",
+        "timestamp": "2025-01-21T02:54:26.117656"
+    },
+    {
+        "subject": "veiligheid",
+        "predicate": "is belangrijk",
+        "object": "bij vriezeronderhoud",
+        "timestamp": "2025-01-21T02:54:26.117658"
+    },
+    {
+        "subject": "onderhoud",
+        "predicate": "is nodig",
+        "object": "om de balans en efficientie van vriezer te verhogen",
+        "timestamp": "2025-01-21T02:54:26.117660"
+    },
+    {
+        "subject": "koelvloeistoffen",
+        "predicate": "werken",
+        "object": "bij vriezer",
+        "timestamp": "2025-01-21T02:54:26.117661"
+    },
+    {
+        "subject": "koelvloeistoffen",
+        "predicate": "werkt",
+        "object": "bij vriezer",
+        "timestamp": "2025-01-21T02:54:26.117662"
+    },
+    {
+        "subject": "koelvloeistof",
+        "predicate": "werkt door",
+        "object": "circuleren door gesloten systeem en veranderen van gas naar vloeistof en weer terug",
+        "timestamp": "2025-01-21T02:54:59.345422"
+    },
+    {
+        "subject": "koelvloeistof",
+        "predicate": "wordt samengeperst",
+        "object": "in compressor",
+        "timestamp": "2025-01-21T02:54:59.345426"
+    },
+    {
+        "subject": "koelvloeistof",
+        "predicate": "wordt afgevoerd",
+        "object": "via condensor aan de achterkant van de vriezer",
+        "timestamp": "2025-01-21T02:54:59.345428"
+    },
+    {
+        "subject": "koelvloeistof",
+        "predicate": "verdampt",
+        "object": "door expansieklep",
+        "timestamp": "2025-01-21T02:54:59.345430"
+    },
+    {
+        "subject": "koelvloeistof",
+        "predicate": "onttrekt warmte aan",
+        "object": "de binnenkant van de vriezer",
+        "timestamp": "2025-01-21T02:54:59.345431"
+    },
+    {
+        "subject": "koelvloeistof",
+        "predicate": "kan niet zomaar bijgevuld worden",
+        "object": "door een doe-het-zelver",
+        "timestamp": "2025-01-21T02:54:59.345433"
+    },
+    {
+        "subject": "koelvloeistof",
+        "predicate": "is schadelijk voor",
+        "object": "het milieu",
+        "timestamp": "2025-01-21T02:54:59.345449"
+    },
+    {
+        "subject": "condensor",
+        "predicate": "is verantwoordelijk voor",
+        "object": "het afvoeren van warmte die tijdens het compressieproces wordt gegenereerd",
+        "timestamp": "2025-01-21T02:54:59.345450"
+    },
+    {
+        "subject": "condensor",
+        "predicate": "moet schoongemaakt worden",
+        "object": "om effici\u00ebntie van de vriezer te verhogen",
+        "timestamp": "2025-01-21T02:54:59.345451"
+    },
+    {
+        "subject": "condensor",
+        "predicate": "location",
+        "object": "behind the refrigerator",
+        "timestamp": "2025-01-21T02:55:39.517129"
+    },
+    {
+        "subject": "stains and dust",
+        "predicate": "affect",
+        "object": "airflow",
+        "timestamp": "2025-01-21T02:55:39.517133"
+    },
+    {
+        "subject": "airflow",
+        "predicate": "improves",
+        "object": "refrigerator efficiency",
+        "timestamp": "2025-01-21T02:55:39.517135"
+    },
+    {
+        "subject": "refrigerator",
+        "predicate": "increases energy consumption",
+        "object": "when condenser is blocked",
+        "timestamp": "2025-01-21T02:55:39.517137"
+    },
+    {
+        "subject": "compressor",
+        "predicate": "life span decreases",
+        "object": "when condenser is blocked",
+        "timestamp": "2025-01-21T02:55:39.517138"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "location",
+        "object": "behind a protective cover",
+        "timestamp": "2025-01-21T02:55:39.517139"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "affects",
+        "object": "air circulation",
+        "timestamp": "2025-01-21T02:55:39.517140"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "can be blocked",
+        "object": "by dust, dirt, or ice",
+        "timestamp": "2025-01-21T02:55:39.517141"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "can be cleaned",
+        "object": "using a soft brush or vacuum cleaner",
+        "timestamp": "2025-01-21T02:55:39.517142"
+    },
+    {
+        "subject": "door seal",
+        "predicate": "affects",
+        "object": "refrigerator temperature uniformity",
+        "timestamp": "2025-01-21T02:55:39.517144"
+    },
+    {
+        "subject": "door seal",
+        "predicate": "can be tested",
+        "object": "by placing a piece of paper between the door and the refrigerator",
+        "timestamp": "2025-01-21T02:55:39.517145"
+    },
+    {
+        "subject": "damaged or worn door seal",
+        "predicate": "increases energy consumption",
+        "object": "in the refrigerator",
+        "timestamp": "2025-01-21T02:55:39.517146"
+    },
+    {
+        "subject": "damaged or worn door seal",
+        "predicate": "causes",
+        "object": "faster ice formation in the refrigerator",
+        "timestamp": "2025-01-21T02:55:39.517147"
+    },
+    {
+        "subject": "afdichting",
+        "predicate": "versleten",
+        "object": "te vervangen",
+        "timestamp": "2025-01-21T02:56:01.529031"
+    },
+    {
+        "subject": "luchtcirculatie",
+        "predicate": "behouden",
+        "object": "door ruimte vrij te houden",
+        "timestamp": "2025-01-21T02:56:01.529035"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "optimaal presteren",
+        "object": "door goed georganiseerd te zijn",
+        "timestamp": "2025-01-21T02:56:01.529037"
+    },
+    {
+        "subject": "temperatuur",
+        "predicate": "optimalisatie",
+        "object": "-18 C",
+        "timestamp": "2025-01-21T02:56:01.529039"
+    },
+    {
+        "subject": "interne temperatuur",
+        "predicate": "controle",
+        "object": "met een thermometer",
+        "timestamp": "2025-01-21T02:56:01.529040"
+    },
+    {
+        "subject": "onderhoud",
+        "predicate": "preventief",
+        "object": "door ventilator, condensor, en deurafdichting te controleren",
+        "timestamp": "2025-01-21T02:56:01.529042"
+    },
+    {
+        "subject": "Vriezers",
+        "predicate": "behoeft onderhoud",
+        "object": "jaarlijkse schoonmaak en inspectie",
+        "timestamp": "2025-01-21T02:56:20.827855"
+    },
+    {
+        "subject": "Vriezers",
+        "predicate": "investering",
+        "object": "duurzaamheid, efficientie en besparing",
+        "timestamp": "2025-01-21T02:56:20.827860"
+    },
+    {
+        "subject": "Vriezers",
+        "predicate": "geheimen",
+        "object": "elke schroef, elke knop, elk geluid",
+        "timestamp": "2025-01-21T02:56:20.827862"
+    },
+    {
+        "subject": "Vriezers",
+        "predicate": "koelcyclus",
+        "object": "koelmiddel, compressor, condensor, expansieklep",
+        "timestamp": "2025-01-21T02:56:20.827864"
+    },
+    {
+        "subject": "compressor",
+        "predicate": "works less efficiently when",
+        "object": "something goes wrong in the process",
+        "timestamp": "2025-01-21T02:57:02.010068"
+    },
+    {
+        "subject": "condenser",
+        "predicate": "is essential for",
+        "object": "removing heat from the refrigerant",
+        "timestamp": "2025-01-21T02:57:02.010073"
+    },
+    {
+        "subject": "dust and dirt",
+        "predicate": "can accumulate on",
+        "object": "condenser",
+        "timestamp": "2025-01-21T02:57:02.010075"
+    },
+    {
+        "subject": "dust",
+        "predicate": "can't be seen directly",
+        "object": "but forms over time",
+        "timestamp": "2025-01-21T02:57:02.010076"
+    },
+    {
+        "subject": "dust accumulation",
+        "predicate": "impedes",
+        "object": "heat dissipation",
+        "timestamp": "2025-01-21T02:57:02.010077"
+    },
+    {
+        "subject": "compressor",
+        "predicate": "works harder to maintain",
+        "object": "same cooling performance",
+        "timestamp": "2025-01-21T02:57:02.010078"
+    },
+    {
+        "subject": "compressor",
+        "predicate": "becomes overheated",
+        "object": "due to increased workload",
+        "timestamp": "2025-01-21T02:57:02.010080"
+    },
+    {
+        "subject": "compressor",
+        "predicate": "increased energy consumption",
+        "object": "due to increased workload",
+        "timestamp": "2025-01-21T02:57:02.010081"
+    },
+    {
+        "subject": "compressor",
+        "predicate": "reduced lifespan",
+        "object": "due to increased workload",
+        "timestamp": "2025-01-21T02:57:02.010082"
+    },
+    {
+        "subject": "dust removal",
+        "predicate": "require",
+        "object": "careful cleaning",
+        "timestamp": "2025-01-21T02:57:02.010083"
+    },
+    {
+        "subject": "dust removal",
+        "predicate": "require",
+        "object": "soft brush or vacuum cleaner with narrow nozzle",
+        "timestamp": "2025-01-21T02:57:02.010087"
+    },
+    {
+        "subject": "dust removal",
+        "predicate": "require",
+        "object": "patience to inspect every corner",
+        "timestamp": "2025-01-21T02:57:02.010088"
+    },
+    {
+        "subject": "dust removal",
+        "predicate": "require",
+        "object": "avoiding water and moisture",
+        "timestamp": "2025-01-21T02:57:02.010089"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "is another important component",
+        "object": "in the cooling process of the freezer",
+        "timestamp": "2025-01-21T02:57:02.010090"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "behoort tot",
+        "object": "koelkast",
+        "timestamp": "2025-01-21T02:57:44.678505"
+    },
+    {
+        "subject": "condensor",
+        "predicate": "is een onderdeel van",
+        "object": "koelproces",
+        "timestamp": "2025-01-21T02:57:44.678512"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "is een onderdeel van",
+        "object": "koelproces",
+        "timestamp": "2025-01-21T02:57:44.678513"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "zorgt voor",
+        "object": "circulatie van koude lucht",
+        "timestamp": "2025-01-21T02:57:44.678515"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "kan veroorzaken",
+        "object": "inhoud die niet goed bewaard blijft",
+        "timestamp": "2025-01-21T02:57:44.678517"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "kan vastlopen",
+        "object": "door stofophoping",
+        "timestamp": "2025-01-21T02:57:44.678519"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "kan vastlopen",
+        "object": "door ijsvorming",
+        "timestamp": "2025-01-21T02:57:44.678520"
+    },
+    {
+        "subject": "ventilator",
+        "predicate": "kan worden schoongemaakt",
+        "object": "met een zachte doek",
+        "timestamp": "2025-01-21T02:57:44.678522"
+    },
+    {
+        "subject": "rubberen deurafdichting",
+        "predicate": "is een onderdeel van",
+        "object": "vriezer",
+        "timestamp": "2025-01-21T02:57:44.678523"
+    },
+    {
+        "subject": "rubberen deurafdichting",
+        "predicate": "zorgt voor",
+        "object": "goede sluiting van de deur",
+        "timestamp": "2025-01-21T02:57:44.678528"
+    },
+    {
+        "subject": "rubberen deurafdichting",
+        "predicate": "kan versleten zijn",
+        "object": "na een tijdje",
+        "timestamp": "2025-01-21T02:57:44.678529"
+    },
+    {
+        "subject": "rubberen deurafdichting",
+        "predicate": "kan worden getest",
+        "object": "met het 'papiertest'",
+        "timestamp": "2025-01-21T02:57:44.678531"
+    },
+    {
+        "subject": "rubberen deurafdichting",
+        "predicate": "kan worden vervangen",
+        "object": "na een tijdje",
+        "timestamp": "2025-01-21T02:57:44.678532"
+    },
+    {
+        "subject": "afdichting",
+        "predicate": "moet pasten bij",
+        "object": "model van vriezer",
+        "timestamp": "2025-01-21T02:58:22.316222"
+    },
+    {
+        "subject": "afdichting",
+        "predicate": "installatie",
+        "object": "eenvoudig",
+        "timestamp": "2025-01-21T02:58:22.316226"
+    },
+    {
+        "subject": "afdichting",
+        "predicate": "na installatie",
+        "object": "controle",
+        "timestamp": "2025-01-21T02:58:22.316228"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "influeert op",
+        "object": "prestaties",
+        "timestamp": "2025-01-21T02:58:22.316229"
+    },
+    {
+        "subject": "omgeving",
+        "predicate": "influeert op",
+        "object": "prestaties",
+        "timestamp": "2025-01-21T02:58:22.316231"
+    },
+    {
+        "subject": "vochtigheid",
+        "predicate": "influeert op",
+        "object": "prestaties",
+        "timestamp": "2025-01-21T02:58:22.316234"
+    },
+    {
+        "subject": "luchtontvochtiger",
+        "predicate": "kan helpen bij",
+        "object": "regulering van vochtigheid",
+        "timestamp": "2025-01-21T02:58:22.316235"
+    },
+    {
+        "subject": "voedsel",
+        "predicate": "opslag",
+        "object": "invloed op",
+        "timestamp": "2025-01-21T02:58:22.316236"
+    },
+    {
+        "subject": "luchtstroom",
+        "predicate": "invloed op",
+        "object": "efficientie van vriezer",
+        "timestamp": "2025-01-21T02:58:22.316237"
+    },
+    {
+        "subject": "ruimte tussen producten",
+        "predicate": "invloed op",
+        "object": "efficientie van vriezer",
+        "timestamp": "2025-01-21T02:58:22.316238"
+    },
+    {
+        "subject": "producten",
+        "predicate": "groeperen",
+        "object": "vindt snel wat je zoekt",
+        "timestamp": "2025-01-21T02:58:22.316240"
+    },
+    {
+        "subject": "producten",
+        "predicate": "groeperen",
+        "object": "houdt de deur kort open",
+        "timestamp": "2025-01-21T02:58:22.316241"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "lengte van dienst",
+        "object": "langer",
+        "timestamp": "2025-01-21T02:58:37.409042"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "werkt efficienter",
+        "object": "geduld en aandacht voor detail",
+        "timestamp": "2025-01-21T02:58:37.409046"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "bespaart geld",
+        "object": "op de lange termijn",
+        "timestamp": "2025-01-21T02:58:37.409047"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "optimaliseert",
+        "object": "elk klein aspect",
+        "timestamp": "2025-01-21T02:58:37.409048"
+    },
+    {
+        "subject": "vriezer",
+        "predicate": "gezondheid",
+        "object": "van het apparaat",
+        "timestamp": "2025-01-21T02:58:37.409050"
+    },
+    {
+        "subject": "acts of simple sabotage",
+        "predicate": "occurring",
+        "object": "throughout Europe",
+        "timestamp": "2025-01-21T03:07:11.263310"
+    },
+    {
+        "subject": "efforts",
+        "predicate": "should be made",
+        "object": "to add to the efficiency, lessen the detectability, and increase the number of acts of simple sabotage",
+        "timestamp": "2025-01-21T03:07:11.263317"
+    },
+    {
+        "subject": "acts of simple sabotage",
+        "predicate": "will be an effective weapon against the enemy",
+        "object": "when multiplied by thousands of citizen-saboteurs",
+        "timestamp": "2025-01-21T03:07:11.263320"
+    },
+    {
+        "subject": "acts of simple sabotage",
+        "predicate": "will waste",
+        "object": "materials, manpower, and time",
+        "timestamp": "2025-01-21T03:07:11.263322"
+    },
+    {
+        "subject": "acts of simple sabotage",
+        "predicate": "will be a constant and tangible drag on the war effort of the enemy",
+        "object": "when occurring on a wide scale",
+        "timestamp": "2025-01-21T03:07:11.263323"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "may have secondary results of more or less value",
+        "object": "when widespread practice by natives in enemy or occupied territory",
+        "timestamp": "2025-01-21T03:07:11.263325"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "will harass and demoralize enemy administrators and police",
+        "object": "when practiced on a wide scale",
+        "timestamp": "2025-01-21T03:07:11.263327"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "may embolden the citizen-saboteur",
+        "object": "eventually to find colleagues who can assist him in sabotage of greater dimensions",
+        "timestamp": "2025-01-21T03:07:11.263328"
+    },
+    {
+        "subject": "practice of simple sabotage",
+        "predicate": "may make these individuals identify themselves actively with the United Nations war effort",
+        "object": "when natives in enemy or occupied territory",
+        "timestamp": "2025-01-21T03:07:11.263329"
+    },
+    {
+        "subject": "practice of simple sabotage",
+        "predicate": "may encourage them to assist openly",
+        "object": "in periods of Allied invasion and occupation",
+        "timestamp": "2025-01-21T03:07:11.263331"
+    },
+    {
+        "subject": "citizen",
+        "predicate": "has no immediate personal motive",
+        "object": "for committing simple sabotage",
+        "timestamp": "2025-01-21T03:07:11.263332"
+    },
+    {
+        "subject": "citizen",
+        "predicate": "needs pressure, stimulation or assurance",
+        "object": "and information and suggestions regarding feasible methods of simple sabotage",
+        "timestamp": "2025-01-21T03:07:11.263334"
+    },
+    {
+        "subject": "citizen",
+        "predicate": "must be made to anticipate indirect personal gain",
+        "object": "such as might come with enemy evacuation or destruction of the ruling government group",
+        "timestamp": "2025-01-21T03:07:11.263335"
+    },
+    {
+        "subject": "gains",
+        "predicate": "should be stated as specifically as possible",
+        "object": "for the area addressed",
+        "timestamp": "2025-01-21T03:07:11.263337"
+    },
+    {
+        "subject": "feasible methods of simple sabotage",
+        "predicate": "encourages",
+        "object": "personal motives, indirect personal gains, sense of responsibility, educating others",
+        "timestamp": "2025-01-21T03:07:20.540623"
+    },
+    {
+        "subject": "feasible methods of simple sabotage",
+        "predicate": "encourages",
+        "object": "destructiveness",
+        "timestamp": "2025-01-21T03:07:20.540628"
+    },
+    {
+        "subject": "citizen-saboteur",
+        "predicate": "acquires sense of responsibility",
+        "object": "educate others in simple sabotage",
+        "timestamp": "2025-01-21T03:07:39.976768"
+    },
+    {
+        "subject": "citizen-saboteur",
+        "predicate": "acts in self-defense",
+        "object": "enemy",
+        "timestamp": "2025-01-21T03:07:39.976771"
+    },
+    {
+        "subject": "citizen-saboteur",
+        "predicate": "acts in retaliation",
+        "object": "enemy",
+        "timestamp": "2025-01-21T03:07:39.976776"
+    },
+    {
+        "subject": "citizen-saboteur",
+        "predicate": "needs specific suggestions",
+        "object": "destroy, details regarding tools",
+        "timestamp": "2025-01-21T03:07:39.976778"
+    },
+    {
+        "subject": "citizen-saboteur",
+        "predicate": "needs to be stimulated",
+        "object": "re-orient thinking in direction of destruction",
+        "timestamp": "2025-01-21T03:07:39.976779"
+    },
+    {
+        "subject": "media",
+        "predicate": "disseminate suggestions",
+        "object": "simple sabotage",
+        "timestamp": "2025-01-21T03:07:39.976780"
+    },
+    {
+        "subject": "methods of simple sabotage",
+        "predicate": "can be devised",
+        "object": "by a man",
+        "timestamp": "2025-01-21T03:08:13.083235"
+    },
+    {
+        "subject": "stimulation",
+        "predicate": "helps",
+        "object": "re-orienting a man's thinking towards destruction",
+        "timestamp": "2025-01-21T03:08:13.083241"
+    },
+    {
+        "subject": "media",
+        "predicate": "can be used to disseminate",
+        "object": "suggestions and information regarding simple sabotage",
+        "timestamp": "2025-01-21T03:08:13.083243"
+    },
+    {
+        "subject": "freedom stations or radio false broadcasts",
+        "predicate": "can be directed toward",
+        "object": "specific geographic or occupational areas",
+        "timestamp": "2025-01-21T03:08:13.083245"
+    },
+    {
+        "subject": "agents",
+        "predicate": "can be trained",
+        "object": "in the art of simple sabotage",
+        "timestamp": "2025-01-21T03:08:13.083259"
+    },
+    {
+        "subject": "sabotage",
+        "predicate": "will be discouraged",
+        "object": "if too many simple saboteurs are arrested",
+        "timestamp": "2025-01-21T03:08:13.083261"
+    },
+    {
+        "subject": "leaflets and other media",
+        "predicate": "can be prepared",
+        "object": "for the saboteur about the choice of weapons, time, and targets",
+        "timestamp": "2025-01-21T03:08:13.083263"
+    },
+    {
+        "subject": "materials",
+        "predicate": "can be used",
+        "object": "to carry out simple sabotage",
+        "timestamp": "2025-01-21T03:08:13.083264"
+    },
+    {
+        "subject": "leaflets and other media",
+        "predicate": "should provide",
+        "object": "suggestions to avoid detection and retaliation",
+        "timestamp": "2025-01-21T03:08:13.083266"
+    },
+    {
+        "subject": "acts",
+        "predicate": "should be committed",
+        "object": "for which large numbers of people could be responsible",
+        "timestamp": "2025-01-21T03:08:13.083267"
+    },
+    {
+        "subject": "acts",
+        "predicate": "can be carried out",
+        "object": "against a military car or truck",
+        "timestamp": "2025-01-21T03:08:13.083269"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "aim",
+        "object": "to be detrimental to the materials and manpower of the enemy",
+        "timestamp": "2025-01-21T03:09:51.030466"
+    },
+    {
+        "subject": "saboteur",
+        "predicate": "should be",
+        "object": "ingenious in using his every-day equipment",
+        "timestamp": "2025-01-21T03:09:51.030472"
+    },
+    {
+        "subject": "saboteur",
+        "predicate": "can obtain",
+        "object": "a plentiful supply of emery dust by pulverizing an emery knife sharpener or emery wheel with a hammer",
+        "timestamp": "2025-01-21T03:09:51.030474"
+    },
+    {
+        "subject": "saboteur",
+        "predicate": "should not attack",
+        "object": "targets beyond his capacity or the capacity of his instruments",
+        "timestamp": "2025-01-21T03:09:51.030475"
+    },
+    {
+        "subject": "saboteur",
+        "predicate": "should damage",
+        "object": "objects and materials known to be in use by the enemy or destined for early use by the enemy",
+        "timestamp": "2025-01-21T03:09:51.030477"
+    },
+    {
+        "subject": "saboteur",
+        "predicate": "should prefer",
+        "object": "military objects",
+        "timestamp": "2025-01-21T03:09:51.030478"
+    },
+    {
+        "subject": "emphasis",
+        "predicate": "should center on",
+        "object": "industrial production, to lessen the flow of materials and equipment to the enemy",
+        "timestamp": "2025-01-21T03:09:51.030483"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can be used during",
+        "object": "quiescent military periods",
+        "timestamp": "2025-01-21T03:10:10.922438"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can be used during",
+        "object": "military offensive periods",
+        "timestamp": "2025-01-21T03:10:10.922442"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "targets",
+        "object": "industrial production",
+        "timestamp": "2025-01-21T03:10:10.922444"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "targets",
+        "object": "transportation facilities",
+        "timestamp": "2025-01-21T03:10:10.922446"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "targets",
+        "object": "communications facilities",
+        "timestamp": "2025-01-21T03:10:10.922447"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "targets",
+        "object": "critical materials",
+        "timestamp": "2025-01-21T03:10:10.922449"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can target",
+        "object": "buildings",
+        "timestamp": "2025-01-21T03:10:45.866181"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can target",
+        "object": "warehouses",
+        "timestamp": "2025-01-21T03:10:45.866186"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can target",
+        "object": "barracks",
+        "timestamp": "2025-01-21T03:10:45.866189"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can target",
+        "object": "offices",
+        "timestamp": "2025-01-21T03:10:45.866190"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can target",
+        "object": "hotels",
+        "timestamp": "2025-01-21T03:10:45.866192"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can target",
+        "object": "factory buildings",
+        "timestamp": "2025-01-21T03:10:45.866194"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can be started",
+        "object": "fires",
+        "timestamp": "2025-01-21T03:10:45.866195"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can be started",
+        "object": "incendiary sabotage",
+        "timestamp": "2025-01-21T03:10:45.866197"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can use",
+        "object": "candle",
+        "timestamp": "2025-01-21T03:10:45.866198"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can use",
+        "object": "paper",
+        "timestamp": "2025-01-21T03:10:45.866200"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can use",
+        "object": "cotton sacking",
+        "timestamp": "2025-01-21T03:10:45.866201"
+    },
+    {
+        "subject": "simple sabotage",
+        "predicate": "can use",
+        "object": "tightly rolled or twisted paper",
+        "timestamp": "2025-01-21T03:10:45.866203"
+    },
+    {
+        "subject": "loose ropes",
+        "predicate": "used for",
+        "object": "igniting a candle",
+        "timestamp": "2025-01-21T03:11:20.986324"
+    },
+    {
+        "subject": "candle",
+        "predicate": "used for",
+        "object": "igniting inflammable materials",
+        "timestamp": "2025-01-21T03:11:20.986340"
+    },
+    {
+        "subject": "gasoline-soaked paper",
+        "predicate": "used for",
+        "object": "igniting resistant materials",
+        "timestamp": "2025-01-21T03:11:20.986343"
+    },
+    {
+        "subject": "celluloid",
+        "predicate": "used for",
+        "object": "creating a hot flame",
+        "timestamp": "2025-01-21T03:11:20.986344"
+    },
+    {
+        "subject": "string",
+        "predicate": "used for",
+        "object": "creating a fuse",
+        "timestamp": "2025-01-21T03:11:20.986346"
+    },
+    {
+        "subject": "gunpowder",
+        "predicate": "used for",
+        "object": "creating a sudden flame",
+        "timestamp": "2025-01-21T03:11:20.986348"
+    },
+    {
+        "subject": "matches",
+        "predicate": "used for",
+        "object": "creating a sudden flame",
+        "timestamp": "2025-01-21T03:11:20.986349"
+    },
+    {
+        "subject": "string",
+        "predicate": "used for",
+        "object": "timing a fire",
+        "timestamp": "2025-01-21T03:11:20.986351"
+    },
+    {
+        "subject": "fuse",
+        "predicate": "used for",
+        "object": "igniting materials",
+        "timestamp": "2025-01-21T03:11:20.986352"
+    },
+    {
+        "subject": "fire",
+        "predicate": "started in",
+        "object": "office after hours",
+        "timestamp": "2025-01-21T03:11:20.986353"
+    },
+    {
+        "subject": "records",
+        "predicate": "destroyed by",
+        "object": "fire",
+        "timestamp": "2025-01-21T03:11:20.986355"
+    },
+    {
+        "subject": "janitor",
+        "predicate": "ignites",
+        "object": "oily and greasy waste",
+        "timestamp": "2025-01-21T03:11:20.986356"
+    },
+    {
+        "subject": "janitor",
+        "predicate": "should accumulate oily and greasy waste",
+        "object": "in basements where waste is kept",
+        "timestamp": "2025-01-21T03:11:43.599172"
+    },
+    {
+        "subject": "fire",
+        "predicate": "can be lit with a cigarette or match",
+        "object": "such waste",
+        "timestamp": "2025-01-21T03:11:43.599177"
+    },
+    {
+        "subject": "janitor",
+        "predicate": "can report the fire",
+        "object": "but should not report it too soon",
+        "timestamp": "2025-01-21T03:11:43.599179"
+    },
+    {
+        "subject": "janitor",
+        "predicate": "should be inefficient in cleaning",
+        "object": "to make a dirty factory inflammable",
+        "timestamp": "2025-01-21T03:11:43.599181"
+    },
+    {
+        "subject": "W. C.",
+        "predicate": "can be used to",
+        "object": "plug a sewage system",
+        "timestamp": "2025-01-21T03:12:30.400012"
+    },
+    {
+        "subject": "coin",
+        "predicate": "can be used to",
+        "object": "blow out fuses",
+        "timestamp": "2025-01-21T03:12:30.400015"
+    },
+    {
+        "subject": "coin",
+        "predicate": "can be used to",
+        "object": "render fuses ineffective",
+        "timestamp": "2025-01-21T03:12:30.400017"
+    },
+    {
+        "subject": "coin",
+        "predicate": "can be used to",
+        "object": "start a fire",
+        "timestamp": "2025-01-21T03:12:30.400018"
+    },
+    {
+        "subject": "coin",
+        "predicate": "can be used to",
+        "object": "damage transformers",
+        "timestamp": "2025-01-21T03:12:30.400019"
+    },
+    {
+        "subject": "coin",
+        "predicate": "can be used to",
+        "object": "interrupt distribution of electricity",
+        "timestamp": "2025-01-21T03:12:30.400020"
+    },
+    {
+        "subject": "paper",
+        "predicate": "can be used to",
+        "object": "jam locks",
+        "timestamp": "2025-01-21T03:12:30.400021"
+    },
+    {
+        "subject": "bits of wood",
+        "predicate": "can be used to",
+        "object": "jam locks",
+        "timestamp": "2025-01-21T03:12:30.400023"
+    },
+    {
+        "subject": "hairpins",
+        "predicate": "can be used to",
+        "object": "jam locks",
+        "timestamp": "2025-01-21T03:12:30.400024"
+    },
+    {
+        "subject": "cutting tools",
+        "predicate": "can be used to",
+        "object": "slow down production",
+        "timestamp": "2025-01-21T03:12:30.400025"
+    },
+    {
+        "subject": "cutting tools",
+        "predicate": "can be used to",
+        "object": "damage materials and parts",
+        "timestamp": "2025-01-21T03:12:30.400026"
+    },
+    {
+        "subject": "saws",
+        "predicate": "can be used to",
+        "object": "break when used",
+        "timestamp": "2025-01-21T03:12:30.400027"
+    },
+    {
+        "subject": "file",
+        "predicate": "can be used to",
+        "object": "wear out a file",
+        "timestamp": "2025-01-21T03:12:30.400028"
+    },
+    {
+        "subject": "file",
+        "predicate": "can be used to",
+        "object": "put a press punch out of order",
+        "timestamp": "2025-01-21T03:12:30.400030"
+    },
+    {
+        "subject": "power-driven tools",
+        "predicate": "can be used to",
+        "object": "slow production or stop work entirely",
+        "timestamp": "2025-01-21T03:12:30.400031"
+    },
+    {
+        "subject": "oil and lubrication systems",
+        "predicate": "can be used to",
+        "object": "slow production or stop work entirely",
+        "timestamp": "2025-01-21T03:12:30.400032"
+    },
+    {
+        "subject": "metal dust",
+        "predicate": "can be used to",
+        "object": "fouled lubrication points and electric contacts",
+        "timestamp": "2025-01-21T03:12:30.400033"
+    },
+    {
+        "subject": "lubrication systems",
+        "predicate": "are vulnerable to sabotage",
+        "object": "oil and lubrication systems are critical in every machine with moving parts",
+        "timestamp": "2025-01-21T03:12:57.104237"
+    },
+    {
+        "subject": "metal dust or filings",
+        "predicate": "can be introduced into lubrication systems",
+        "object": "to ruin pistons, cylinder walls, shafts, and bearings",
+        "timestamp": "2025-01-21T03:12:57.104241"
+    },
+    {
+        "subject": "sharp object",
+        "predicate": "can be used to poke through filter mesh",
+        "object": "to cause wear on any machine",
+        "timestamp": "2025-01-21T03:12:57.104243"
+    },
+    {
+        "subject": "sulphuric acid",
+        "predicate": "can be used to thin oil",
+        "object": "to lessen the effectiveness of oil",
+        "timestamp": "2025-01-21T03:12:57.104244"
+    },
+    {
+        "subject": "thin oil",
+        "predicate": "can break down a machine or heat up a moving shaft",
+        "object": "so that it will 'freeze' and stop",
+        "timestamp": "2025-01-21T03:12:57.104246"
+    },
+    {
+        "subject": "clogging substance",
+        "predicate": "can be introduced into lubrication systems",
+        "object": "to stop or hinder the flow of oil",
+        "timestamp": "2025-01-21T03:12:57.104247"
+    },
+    {
+        "subject": "stop-plugs",
+        "predicate": "can be removed from lubricating systems",
+        "object": "to destroy oil outright",
+        "timestamp": "2025-01-21T03:12:57.104248"
+    },
+    {
+        "subject": "drums and cans",
+        "predicate": "can be punctured",
+        "object": "to destroy oil outright",
+        "timestamp": "2025-01-21T03:12:57.104249"
+    },
+    {
+        "subject": "clogging substance",
+        "predicate": "can be used to",
+        "object": "interfere with oil flow through lubrication systems",
+        "timestamp": "2025-01-21T03:13:35.272051"
+    },
+    {
+        "subject": "clogging substance",
+        "predicate": "can be used to",
+        "object": "interfere with oil flow through stored oil",
+        "timestamp": "2025-01-21T03:13:35.272056"
+    },
+    {
+        "subject": "clogging substance",
+        "predicate": "can be used to",
+        "object": "destroy oil outright",
+        "timestamp": "2025-01-21T03:13:35.272057"
+    },
+    {
+        "subject": "clogging substance",
+        "predicate": "can be used to",
+        "object": "clog a water cooling system",
+        "timestamp": "2025-01-21T03:13:35.272059"
+    },
+    {
+        "subject": "clogging substance",
+        "predicate": "can be used to",
+        "object": "ruin the effectiveness of an air cooling system",
+        "timestamp": "2025-01-21T03:13:35.272060"
+    },
+    {
+        "subject": "clogging substance",
+        "predicate": "can be used to",
+        "object": "stop or hinder the flow of oil through feed lines and filters",
+        "timestamp": "2025-01-21T03:13:35.272065"
+    },
+    {
+        "subject": "Sabotage",
+        "predicate": "method",
+        "object": "Putting sawdust or hard grain into a fuel tank",
+        "timestamp": "2025-01-21T03:13:58.334088"
+    },
+    {
+        "subject": "Sabotage",
+        "predicate": "method",
+        "object": "Putting sugar into a fuel tank",
+        "timestamp": "2025-01-21T03:13:58.334094"
+    },
+    {
+        "subject": "Sabotage",
+        "predicate": "method",
+        "object": "Introducing fine particles of pumice, sand, ground glass, and metal dust into a gasoline tank",
+        "timestamp": "2025-01-21T03:13:58.334095"
+    },
+    {
+        "subject": "Sabotage",
+        "predicate": "method",
+        "object": "Diluting gasoline fuel with water, urine, or wine",
+        "timestamp": "2025-01-21T03:13:58.334097"
+    },
+    {
+        "subject": "Sabotage",
+        "predicate": "method",
+        "object": "Putting low flashpoint oil into a Diesel fuel tank",
+        "timestamp": "2025-01-21T03:13:58.334098"
+    },
+    {
+        "subject": "Sabotage",
+        "predicate": "method",
+        "object": "Stabbing a small hole in a fuel line and plugging it with wax",
+        "timestamp": "2025-01-21T03:13:58.334099"
+    },
+    {
+        "subject": "Sabotage",
+        "predicate": "method",
+        "object": "Allowing gas vapor to accumulate in a closed room",
+        "timestamp": "2025-01-21T03:13:58.334101"
+    },
+    {
+        "subject": "fuel line",
+        "predicate": "can be used to start a fire",
+        "object": "by melting wax and dripping fuel onto the exhaust pipe",
+        "timestamp": "2025-01-21T03:14:13.459741"
+    },
+    {
+        "subject": "gasoline storage room",
+        "predicate": "can be made to explode",
+        "object": "by lighting a candle in a sealed room",
+        "timestamp": "2025-01-21T03:14:13.459746"
+    },
+    {
+        "subject": "electric motor",
+        "predicate": "can be sabotaged",
+        "object": "by setting the rheostat to a high resistance or adjusting the overload relay to a very high value",
+        "timestamp": "2025-01-21T03:14:13.459748"
+    },
+    {
+        "subject": "electrical equipment",
+        "predicate": "can be damaged",
+        "object": "by dust, dirt, and moisture",
+        "timestamp": "2025-01-21T03:14:13.459749"
+    },
+    {
+        "subject": "Electric motors",
+        "predicate": "can be damaged by",
+        "object": "overheating and short circuits",
+        "timestamp": "2025-01-21T03:14:34.718829"
+    },
+    {
+        "subject": "Overload relay",
+        "predicate": "can be adjusted",
+        "object": "to a very high value",
+        "timestamp": "2025-01-21T03:14:34.718836"
+    },
+    {
+        "subject": "Dust, dirt, and moisture",
+        "predicate": "are enemies of",
+        "object": "electrical equipment",
+        "timestamp": "2025-01-21T03:14:34.718837"
+    },
+    {
+        "subject": "Commutator",
+        "predicate": "can be damaged by",
+        "object": "bruising the insulation, loosening nuts, making faulty splices, and adding metal dust",
+        "timestamp": "2025-01-21T03:14:34.718839"
+    },
+    {
+        "subject": "Electric motors",
+        "predicate": "can be stopped by",
+        "object": "applying dust mixed with grease to the armature",
+        "timestamp": "2025-01-21T03:14:34.718840"
+    },
+    {
+        "subject": "Electric motors",
+        "predicate": "can be overheated by",
+        "object": "mixing sand with heavy grease and smearing it between the stator and rotor, or wedging thin metal pieces between them",
+        "timestamp": "2025-01-21T03:14:34.718841"
+    },
+    {
+        "subject": "current",
+        "predicate": "will leak or short circuits will occur",
+        "object": "due to idle motor",
+        "timestamp": "2025-01-21T03:15:19.215833"
+    },
+    {
+        "subject": "motor",
+        "predicate": "stoppage or inefficiency caused by",
+        "object": "dust mixed with grease on armature",
+        "timestamp": "2025-01-21T03:15:19.215836"
+    },
+    {
+        "subject": "electric motor",
+        "predicate": "overheating caused by",
+        "object": "sand mixed with heavy grease between stator and rotor",
+        "timestamp": "2025-01-21T03:15:19.215838"
+    },
+    {
+        "subject": "motor",
+        "predicate": "overheating caused by",
+        "object": "oil, tar, or paint between stator and rotor",
+        "timestamp": "2025-01-21T03:15:19.215839"
+    },
+    {
+        "subject": "motor",
+        "predicate": "stoppage caused by",
+        "object": "deeply nicked lead-in wire",
+        "timestamp": "2025-01-21T03:15:19.215840"
+    },
+    {
+        "subject": "motor",
+        "predicate": "inability to start caused by",
+        "object": "blown-out fuse",
+        "timestamp": "2025-01-21T03:15:19.215842"
+    },
+    {
+        "subject": "oil-filled transformer",
+        "predicate": "put out of commission by",
+        "object": "pouring water, salt water, machine-tool coolant, or kerosene into oil tank",
+        "timestamp": "2025-01-21T03:15:19.215843"
+    },
+    {
+        "subject": "air-cooled transformer",
+        "predicate": "put out of commission by",
+        "object": "blocking ventilation with debris",
+        "timestamp": "2025-01-21T03:15:19.215844"
+    },
+    {
+        "subject": "transformer",
+        "predicate": "put out of commission by",
+        "object": "throwing carbon, graphite, or metal dust over electrical parts",
+        "timestamp": "2025-01-21T03:15:19.215845"
+    },
+    {
+        "subject": "hydro turbine",
+        "predicate": "flood plant with water by",
+        "object": "fastening cover insecurely",
+        "timestamp": "2025-01-21T03:15:19.215846"
+    },
+    {
+        "subject": "steam turbine",
+        "predicate": "slow down by",
+        "object": "fastening cover insecurely",
+        "timestamp": "2025-01-21T03:15:19.215847"
+    },
+    {
+        "subject": "water turbine",
+        "predicate": "damage by",
+        "object": "inserting scrap iron in penstock head",
+        "timestamp": "2025-01-21T03:15:19.215852"
+    },
+    {
+        "subject": "steam line",
+        "predicate": "damage by",
+        "object": "putting pieces of scrap iron in it",
+        "timestamp": "2025-01-21T03:15:19.215853"
+    },
+    {
+        "subject": "oil line",
+        "predicate": "damage by",
+        "object": "creating a leak",
+        "timestamp": "2025-01-21T03:15:19.215855"
+    },
+    {
+        "subject": "oil line",
+        "predicate": "cause fire by",
+        "object": "falling on hot steam pipe",
+        "timestamp": "2025-01-21T03:15:19.215856"
+    },
+    {
+        "subject": "Water turbines",
+        "predicate": "damage prevention",
+        "object": "inserting scrap iron in the head of the penstock",
+        "timestamp": "2025-01-21T03:15:57.671788"
+    },
+    {
+        "subject": "Steam turbines",
+        "predicate": "damage prevention",
+        "object": "inserting scrap iron in the steam line",
+        "timestamp": "2025-01-21T03:15:57.671792"
+    },
+    {
+        "subject": "Turbine machinery",
+        "predicate": "damage prevention",
+        "object": "causing a fire by dropping oil on the hot steam pipe",
+        "timestamp": "2025-01-21T03:15:57.671794"
+    },
+    {
+        "subject": "Steam boilers",
+        "predicate": "damage prevention",
+        "object": "keeping the fire low or letting the boiler dry out",
+        "timestamp": "2025-01-21T03:15:57.671795"
+    },
+    {
+        "subject": "Steam boilers",
+        "predicate": "damage prevention",
+        "object": "putting limestone or water containing lime in the boiler",
+        "timestamp": "2025-01-21T03:15:57.671797"
+    },
+    {
+        "subject": "Blast furnaces",
+        "predicate": "damage prevention",
+        "object": "shutting down frequently for repair",
+        "timestamp": "2025-01-21T03:15:57.671798"
+    },
+    {
+        "subject": "Blast furnaces",
+        "predicate": "damage prevention",
+        "object": "using tar to harden fire-proof bricks",
+        "timestamp": "2025-01-21T03:15:57.671799"
+    },
+    {
+        "subject": "Casting",
+        "predicate": "damage prevention",
+        "object": "filling cores with air bubbles",
+        "timestamp": "2025-01-21T03:15:57.671800"
+    },
+    {
+        "subject": "Casting",
+        "predicate": "damage prevention",
+        "object": "not properly supporting cores",
+        "timestamp": "2025-01-21T03:15:57.671801"
+    },
+    {
+        "subject": "Tempering",
+        "predicate": "damage prevention",
+        "object": "applying too much heat",
+        "timestamp": "2025-01-21T03:15:57.671802"
+    },
+    {
+        "subject": "Davy oil lamp",
+        "predicate": "damage prevention",
+        "object": "extinguishing the lamp by blowing against it",
+        "timestamp": "2025-01-21T03:15:57.671803"
+    },
+    {
+        "subject": "Pneumatic picks",
+        "predicate": "damage prevention",
+        "object": "not hardening them",
+        "timestamp": "2025-01-21T03:15:57.671804"
+    },
+    {
+        "subject": "Coal mining",
+        "predicate": "damage prevention",
+        "object": "extinguishing the Davy oil lamp and taking a long time to find a safe place to relight it",
+        "timestamp": "2025-01-21T03:15:57.671805"
+    },
+    {
+        "subject": "tempering process",
+        "predicate": "can result in poor quality",
+        "object": "steel or iron bars and ingots",
+        "timestamp": "2025-01-21T03:16:31.400463"
+    },
+    {
+        "subject": "oil lamp",
+        "predicate": "can be extinguished",
+        "object": "with a slight blow",
+        "timestamp": "2025-01-21T03:16:31.400466"
+    },
+    {
+        "subject": "pneumatic pick",
+        "predicate": "can be put out of order",
+        "object": "by pouring water through the oil lever",
+        "timestamp": "2025-01-21T03:16:31.400467"
+    },
+    {
+        "subject": "pneumatic pick",
+        "predicate": "can be put out of order",
+        "object": "by coal dust and improper lubrication",
+        "timestamp": "2025-01-21T03:16:31.400469"
+    },
+    {
+        "subject": "chain",
+        "predicate": "can break",
+        "object": "due to a deep dent made with blows of a pick or shovel",
+        "timestamp": "2025-01-21T03:16:31.400470"
+    },
+    {
+        "subject": "mine cars",
+        "predicate": "can be deraille",
+        "object": "by placing obstructions on the rails and in switch points",
+        "timestamp": "2025-01-21T03:16:31.400471"
+    },
+    {
+        "subject": "coal cars",
+        "predicate": "can snarl traffic",
+        "object": "if placed in a gallery where cars have to pass each other",
+        "timestamp": "2025-01-21T03:16:31.400472"
+    },
+    {
+        "subject": "mine",
+        "predicate": "can send up useless material",
+        "object": "with the bucket conveyers carrying coal",
+        "timestamp": "2025-01-21T03:16:31.400473"
+    },
+    {
+        "subject": "food crops",
+        "predicate": "can be destroyed",
+        "object": "in areas with large food surpluses",
+        "timestamp": "2025-01-21T03:16:31.400474"
+    },
+    {
+        "subject": "food crops",
+        "predicate": "can be destroyed",
+        "object": "in areas where the enemy is known to be requisitioning food",
+        "timestamp": "2025-01-21T03:16:31.400476"
+    },
+    {
+        "subject": "feed crops",
+        "predicate": "can be used to destroy",
+        "object": "livestock",
+        "timestamp": "2025-01-21T03:16:31.400477"
+    },
+    {
+        "subject": "switches",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by exchanging wires in switchboards",
+        "timestamp": "2025-01-21T03:18:38.924960"
+    },
+    {
+        "subject": "switches",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by loosening push-rods",
+        "timestamp": "2025-01-21T03:18:38.924964"
+    },
+    {
+        "subject": "switches",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by breaking signal lights",
+        "timestamp": "2025-01-21T03:18:38.924966"
+    },
+    {
+        "subject": "switches",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by exchanging the colored lenses on red and green lights",
+        "timestamp": "2025-01-21T03:18:38.924967"
+    },
+    {
+        "subject": "switch points",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by spreading and spiking switch points",
+        "timestamp": "2025-01-21T03:18:38.924968"
+    },
+    {
+        "subject": "switch points",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by placing rocks or close-packed dirt between the switch points",
+        "timestamp": "2025-01-21T03:18:38.924970"
+    },
+    {
+        "subject": "switch points",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by sprinkling rock salt or ordinary salt over electrical connections",
+        "timestamp": "2025-01-21T03:18:38.924971"
+    },
+    {
+        "subject": "switch points",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by sprinkling rock salt or ordinary salt on the ground nearby",
+        "timestamp": "2025-01-21T03:18:38.924972"
+    },
+    {
+        "subject": "switch points",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by causing short-circuiting when it rains",
+        "timestamp": "2025-01-21T03:18:38.924973"
+    },
+    {
+        "subject": "cars",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by putting cars on the wrong trains",
+        "timestamp": "2025-01-21T03:18:38.924974"
+    },
+    {
+        "subject": "cars",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by removing labels from cars needing repair",
+        "timestamp": "2025-01-21T03:18:38.924976"
+    },
+    {
+        "subject": "cars",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by putting labels on cars in good order",
+        "timestamp": "2025-01-21T03:18:38.924977"
+    },
+    {
+        "subject": "cars",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by leaving couplings between cars loose",
+        "timestamp": "2025-01-21T03:18:38.924978"
+    },
+    {
+        "subject": "curves",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by taking bolts out of tie-plates",
+        "timestamp": "2025-01-21T03:18:38.924979"
+    },
+    {
+        "subject": "curves",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by scooping away gravel, cinders, or dirt",
+        "timestamp": "2025-01-21T03:18:38.924980"
+    },
+    {
+        "subject": "oil",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by squeezing lubricating pipes",
+        "timestamp": "2025-01-21T03:18:38.924981"
+    },
+    {
+        "subject": "oil",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by denting lubricating pipes with hammers",
+        "timestamp": "2025-01-21T03:18:38.924983"
+    },
+    {
+        "subject": "boilers",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by putting heavy oil or tar in engines' boilers",
+        "timestamp": "2025-01-21T03:18:38.924984"
+    },
+    {
+        "subject": "boilers",
+        "predicate": "should be manipulated to cause trains to malfunction",
+        "object": "by putting soft soap in the water in the tender",
+        "timestamp": "2025-01-21T03:18:38.924985"
+    },
+    {
+        "subject": "Construction gangs",
+        "predicate": "can detect",
+        "object": "excessive sand, water in concrete, soft spots in road foundation",
+        "timestamp": "2025-01-21T03:20:00.470826"
+    },
+    {
+        "subject": "Passengers",
+        "predicate": "can disrupt travel",
+        "object": "by bus driver going past intended stop, taxi drivers taking long routes",
+        "timestamp": "2025-01-21T03:20:00.470830"
+    },
+    {
+        "subject": "Mechanics",
+        "predicate": "can damage",
+        "object": "batteries by removing valve caps, introducing filings, or adding vinegar",
+        "timestamp": "2025-01-21T03:20:00.470831"
+    },
+    {
+        "subject": "exposed water vent",
+        "predicate": "shatters",
+        "object": "cell plates",
+        "timestamp": "2025-01-21T03:20:37.956510"
+    },
+    {
+        "subject": "iron or copper filings",
+        "predicate": "shortens",
+        "object": "battery life",
+        "timestamp": "2025-01-21T03:20:37.956517"
+    },
+    {
+        "subject": "copper coins or iron pieces",
+        "predicate": "shortens",
+        "object": "battery life",
+        "timestamp": "2025-01-21T03:20:37.956519"
+    },
+    {
+        "subject": "vinegar",
+        "predicate": "greatly reduces",
+        "object": "battery life",
+        "timestamp": "2025-01-21T03:20:37.956520"
+    },
+    {
+        "subject": "lubricant",
+        "predicate": "should be removed or used in light amounts",
+        "object": "transmission and other gears",
+        "timestamp": "2025-01-21T03:20:37.956521"
+    },
+    {
+        "subject": "gear case",
+        "predicate": "should be fixed insecurely",
+        "object": "in trucks, tractors, and machines with heavy gears",
+        "timestamp": "2025-01-21T03:20:37.956522"
+    },
+    {
+        "subject": "nail",
+        "predicate": "can be used to puncture",
+        "object": "tire",
+        "timestamp": "2025-01-21T03:20:37.956524"
+    },
+    {
+        "subject": "glass, benzine, caustic soda, or other material",
+        "predicate": "can damage tire",
+        "object": "in tire repair shop",
+        "timestamp": "2025-01-21T03:20:37.956525"
+    },
+    {
+        "subject": "gummy substance",
+        "predicate": "can make tire unusable",
+        "object": "in tire repair shop",
+        "timestamp": "2025-01-21T03:20:37.956526"
+    },
+    {
+        "subject": "tire repair",
+        "predicate": "can leave object in tire",
+        "object": "in tire repair shop",
+        "timestamp": "2025-01-21T03:20:37.956527"
+    },
+    {
+        "subject": "tire pressure",
+        "predicate": "should be kept low",
+        "object": "to increase wear",
+        "timestamp": "2025-01-21T03:20:37.956528"
+    },
+    {
+        "subject": "tire inflation",
+        "predicate": "should be done quickly",
+        "object": "to cause creasing",
+        "timestamp": "2025-01-21T03:20:37.956529"
+    },
+    {
+        "subject": "tire assembly",
+        "predicate": "should pinch tube between rim and wheel",
+        "object": "to cause blow-out",
+        "timestamp": "2025-01-21T03:20:37.956530"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "creasing the tire",
+        "timestamp": "2025-01-21T03:21:32.975845"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "pinching the inner tube between the rim of the tire and the rim of the wheel",
+        "timestamp": "2025-01-21T03:21:32.975850"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "inflating the inner tire to a higher pressure than the outer one",
+        "timestamp": "2025-01-21T03:21:32.975851"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "keeping tires below normal pressure",
+        "timestamp": "2025-01-21T03:21:32.975853"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "badly aligned wheels",
+        "timestamp": "2025-01-21T03:21:32.975854"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "rotting tires with oil, gasoline, caustic acid, or benzine",
+        "timestamp": "2025-01-21T03:21:32.975855"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "leaving wheels out of alignment",
+        "timestamp": "2025-01-21T03:21:32.975856"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "kicking the wheels",
+        "timestamp": "2025-01-21T03:21:32.975860"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "driving the car slowly and diagonally into a curb",
+        "timestamp": "2025-01-21T03:21:32.975862"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "spreading false rumors about the navigability and conditions of the waterways",
+        "timestamp": "2025-01-21T03:21:32.975863"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "navigating with exceeding caution near locks and bridges",
+        "timestamp": "2025-01-21T03:21:32.975864"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "not pumping the bilges of ships and barges often enough",
+        "timestamp": "2025-01-21T03:21:32.975865"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "running barges aground",
+        "timestamp": "2025-01-21T03:21:32.975866"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "delaying traffic over bridges",
+        "timestamp": "2025-01-21T03:21:32.975867"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "delaying traffic in waterways underneath bridges",
+        "timestamp": "2025-01-21T03:21:32.975869"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "adding or subtracting compensating magnets to the compass",
+        "timestamp": "2025-01-21T03:21:32.975870"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "demagnetizing the compass",
+        "timestamp": "2025-01-21T03:21:32.975871"
+    },
+    {
+        "subject": "tire wear",
+        "predicate": "can be increased by",
+        "object": "concealing a large bar of steel or iron near the compass",
+        "timestamp": "2025-01-21T03:21:32.975872"
+    },
+    {
+        "subject": "Barges",
+        "predicate": "can cause delays",
+        "object": "by running aground",
+        "timestamp": "2025-01-21T03:22:17.866956"
+    },
+    {
+        "subject": "Attendants on bridges",
+        "predicate": "can delay traffic",
+        "object": "by being slow",
+        "timestamp": "2025-01-21T03:22:17.866960"
+    },
+    {
+        "subject": "Boat captains",
+        "predicate": "can delay road traffic",
+        "object": "by leaving draw bridges open",
+        "timestamp": "2025-01-21T03:22:17.866963"
+    },
+    {
+        "subject": "Cargo ships",
+        "predicate": "can cause damage",
+        "object": "by handling cargo carelessly",
+        "timestamp": "2025-01-21T03:22:17.866964"
+    },
+    {
+        "subject": "Cargo ships",
+        "predicate": "can damage cargo",
+        "object": "by arranging it poorly",
+        "timestamp": "2025-01-21T03:22:17.866965"
+    },
+    {
+        "subject": "Cargo ships",
+        "predicate": "can damage cargo",
+        "object": "by tying float valves open",
+        "timestamp": "2025-01-21T03:22:17.866967"
+    },
+    {
+        "subject": "Telephone",
+        "predicate": "can disrupt communications",
+        "object": "by delaying calls",
+        "timestamp": "2025-01-21T03:22:17.866968"
+    },
+    {
+        "subject": "Telephone",
+        "predicate": "can disrupt communications",
+        "object": "by giving wrong numbers",
+        "timestamp": "2025-01-21T03:22:17.866969"
+    },
+    {
+        "subject": "Telephone",
+        "predicate": "can disrupt communications",
+        "object": "by cutting calls off",
+        "timestamp": "2025-01-21T03:22:17.866971"
+    },
+    {
+        "subject": "Telephone",
+        "predicate": "can disrupt communications",
+        "object": "by forgetting to disconnect calls",
+        "timestamp": "2025-01-21T03:22:17.866972"
+    },
+    {
+        "subject": "Telephone",
+        "predicate": "can disrupt communications",
+        "object": "by making wrong number calls",
+        "timestamp": "2025-01-21T03:22:17.866973"
+    },
+    {
+        "subject": "Telephone",
+        "predicate": "can disrupt communications",
+        "object": "by making false reports",
+        "timestamp": "2025-01-21T03:22:17.866974"
+    },
+    {
+        "subject": "Telephone",
+        "predicate": "can disrupt communications",
+        "object": "by making poor connections",
+        "timestamp": "2025-01-21T03:22:17.866975"
+    },
+    {
+        "subject": "Telephone",
+        "predicate": "can disrupt communications",
+        "object": "by damaging insulation",
+        "timestamp": "2025-01-21T03:22:17.866977"
+    },
+    {
+        "subject": "Telephone",
+        "predicate": "can disrupt communications",
+        "object": "by putting batteries out of commission",
+        "timestamp": "2025-01-21T03:22:17.866978"
+    },
+    {
+        "subject": "Electricians and telephone repair men",
+        "predicate": "can make poor connections and damage insulation",
+        "object": "so that cross talk and other kinds of electrical interference will make conversations hard or impossible to understand",
+        "timestamp": "2025-01-21T03:22:57.750948"
+    },
+    {
+        "subject": "Batteries",
+        "predicate": "can be put under automatic switchboards out of commission",
+        "object": "by dropping nails, metal filings, or coins into the cells",
+        "timestamp": "2025-01-21T03:22:57.750957"
+    },
+    {
+        "subject": "A whole telephone system",
+        "predicate": "can be disrupted",
+        "object": "if you can put 10 percent of the cells in half the batteries of the central battery room out of order",
+        "timestamp": "2025-01-21T03:22:57.750959"
+    },
+    {
+        "subject": "Telegrams",
+        "predicate": "can be delayed",
+        "object": "to enemy destinations",
+        "timestamp": "2025-01-21T03:22:57.750960"
+    },
+    {
+        "subject": "Telegrams",
+        "predicate": "can be garbled",
+        "object": "to enemy destinations so that another telegram will have to be sent or a long distance call will have to be made",
+        "timestamp": "2025-01-21T03:22:57.750962"
+    },
+    {
+        "subject": "Telegraph lines",
+        "predicate": "can be cut",
+        "object": "to delay the transmission and delivery of telegrams to enemy destinations",
+        "timestamp": "2025-01-21T03:22:57.750963"
+    },
+    {
+        "subject": "Power lines",
+        "predicate": "can be damaged",
+        "object": "to cause interference",
+        "timestamp": "2025-01-21T03:22:57.750964"
+    },
+    {
+        "subject": "Post office employees",
+        "predicate": "can see to it that enemy mail is always delayed",
+        "object": "by one day or more, that it is put in wrong sacks, and so on",
+        "timestamp": "2025-01-21T03:22:57.750965"
+    },
+    {
+        "subject": "Motion pictures",
+        "predicate": "can be ruined",
+        "object": "by projectors operators or audiences",
+        "timestamp": "2025-01-21T03:22:57.750967"
+    },
+    {
+        "subject": "Motion pictures",
+        "predicate": "can be ruined",
+        "object": "by projecting moths into the projector beam",
+        "timestamp": "2025-01-21T03:22:57.750968"
+    },
+    {
+        "subject": "Radio",
+        "predicate": "can be overmodulated",
+        "object": "by station engineers",
+        "timestamp": "2025-01-21T03:22:57.750970"
+    },
+    {
+        "subject": "breaking up a showing of an enemy propaganda film",
+        "predicate": "method",
+        "object": "putting two or three dozen large moths in a paper bag and leaving it open in the theater",
+        "timestamp": "2025-01-21T03:23:27.486402"
+    },
+    {
+        "subject": "overmodulating radio transmissions",
+        "predicate": "method",
+        "object": "using heavy cotton blanket with marbles in the mouth",
+        "timestamp": "2025-01-21T03:23:27.486407"
+    },
+    {
+        "subject": "interfering with radio reception",
+        "predicate": "method",
+        "object": "blowing out fuses by inserting an electric light plug into wall and floor outlets",
+        "timestamp": "2025-01-21T03:23:27.486409"
+    },
+    {
+        "subject": "creating radio interference",
+        "predicate": "method",
+        "object": "damaging insulation on electrical equipment",
+        "timestamp": "2025-01-21T03:23:27.486410"
+    },
+    {
+        "subject": "damaging high tension lines",
+        "predicate": "method",
+        "object": "causing ground-to-plane radio communications difficulties",
+        "timestamp": "2025-01-21T03:23:27.486412"
+    },
+    {
+        "subject": "loosening and dirtying insulators",
+        "predicate": "method",
+        "object": "causing power leakage",
+        "timestamp": "2025-01-21T03:23:27.486413"
+    },
+    {
+        "subject": "turbines, electric motors, transformers",
+        "predicate": "method",
+        "object": "See 5 b. (2) (e), (f), and (g)",
+        "timestamp": "2025-01-21T03:23:27.486414"
+    },
+    {
+        "subject": "transmission lines",
+        "predicate": "method",
+        "object": "Linesmen can loosen and dirty insulators to cause power leakage",
+        "timestamp": "2025-01-21T03:23:27.486415"
+    },
+    {
+        "subject": "Electric Power",
+        "predicate": "contains",
+        "object": "Turbines, Electric Motors, Transformers",
+        "timestamp": "2025-01-21T03:23:41.531312"
+    },
+    {
+        "subject": "Transmission Lines",
+        "predicate": "can be used for",
+        "object": "causing power leakage",
+        "timestamp": "2025-01-21T03:23:41.531316"
+    },
+    {
+        "subject": "General Interference with Organizations and Production",
+        "predicate": "contains",
+        "object": "Organizations and Conferences, Managers and Supervisors",
+        "timestamp": "2025-01-21T03:23:41.531318"
+    },
+    {
+        "subject": "Managers and Supervisors",
+        "predicate": "demand",
+        "object": "written orders",
+        "timestamp": "2025-01-21T03:23:41.531319"
+    },
+    {
+        "subject": "managers and supervisors",
+        "predicate": "demand",
+        "object": "written orders",
+        "timestamp": "2025-01-21T03:24:15.036488"
+    },
+    {
+        "subject": "managers and supervisors",
+        "predicate": "misunderstand",
+        "object": "orders",
+        "timestamp": "2025-01-21T03:24:15.036494"
+    },
+    {
+        "subject": "managers and supervisors",
+        "predicate": "delay",
+        "object": "delivery of orders",
+        "timestamp": "2025-01-21T03:24:15.036496"
+    },
+    {
+        "subject": "managers and supervisors",
+        "predicate": "order",
+        "object": "high-quality materials",
+        "timestamp": "2025-01-21T03:24:15.036497"
+    },
+    {
+        "subject": "managers and supervisors",
+        "predicate": "insist",
+        "object": "perfect work in relatively unimportant products",
+        "timestamp": "2025-01-21T03:24:15.036499"
+    },
+    {
+        "subject": "managers and supervisors",
+        "predicate": "make",
+        "object": "mistakes in routing",
+        "timestamp": "2025-01-21T03:24:15.036501"
+    },
+    {
+        "subject": "managers and supervisors",
+        "predicate": "train",
+        "object": "new workers",
+        "timestamp": "2025-01-21T03:24:15.036502"
+    },
+    {
+        "subject": "managers and supervisors",
+        "predicate": "be pleasant to",
+        "object": "inefficient workers",
+        "timestamp": "2025-01-21T03:24:15.036503"
+    },
+    {
+        "subject": "managers and supervisors",
+        "predicate": "discriminate against",
+        "object": "efficient workers",
+        "timestamp": "2025-01-21T03:24:15.036505"
+    },
+    {
+        "subject": "managers and supervisors",
+        "predicate": "hold",
+        "object": "conferences",
+        "timestamp": "2025-01-21T03:24:15.036506"
+    },
+    {
+        "subject": "managers and supervisors",
+        "predicate": "multiply",
+        "object": "paper work",
+        "timestamp": "2025-01-21T03:24:15.036507"
+    },
+    {
+        "subject": "managers and supervisors",
+        "predicate": "multiply",
+        "object": "procedures and clearances",
+        "timestamp": "2025-01-21T03:24:15.036508"
+    },
+    {
+        "subject": "training new workers",
+        "predicate": "give incomplete or misleading instructions",
+        "object": "to lower production",
+        "timestamp": "2025-01-21T03:25:05.742791"
+    },
+    {
+        "subject": "lower morale",
+        "predicate": "be pleasant to inefficient workers",
+        "object": "to lower production",
+        "timestamp": "2025-01-21T03:25:05.742797"
+    },
+    {
+        "subject": "discriminate against efficient workers",
+        "predicate": "complain unjustly about their work",
+        "object": "to lower production",
+        "timestamp": "2025-01-21T03:25:05.742799"
+    },
+    {
+        "subject": "conferences",
+        "predicate": "hold when there is more critical work to be done",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742801"
+    },
+    {
+        "subject": "paper work",
+        "predicate": "multiply in plausible ways",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742803"
+    },
+    {
+        "subject": "procedures and clearances",
+        "predicate": "multiply involved in issuing instructions, pay checks, and so on",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742804"
+    },
+    {
+        "subject": "regulations",
+        "predicate": "apply to the last letter",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742806"
+    },
+    {
+        "subject": "copying orders",
+        "predicate": "make mistakes in quantities of material",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742807"
+    },
+    {
+        "subject": "correspondence",
+        "predicate": "prolong with government bureaus",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742809"
+    },
+    {
+        "subject": "essential documents",
+        "predicate": "misfile",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742811"
+    },
+    {
+        "subject": "carbon copies",
+        "predicate": "make one too few",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742812"
+    },
+    {
+        "subject": "mail",
+        "predicate": "hold up",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742814"
+    },
+    {
+        "subject": "correspondence",
+        "predicate": "spread disturbing rumors",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742815"
+    },
+    {
+        "subject": "work",
+        "predicate": "work slowly",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742817"
+    },
+    {
+        "subject": "number of movements",
+        "predicate": "increase on your job",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742818"
+    },
+    {
+        "subject": "interruptions",
+        "predicate": "contrive as many to your work as you can",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742820"
+    },
+    {
+        "subject": "instructions",
+        "predicate": "pretend not to understand",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742821"
+    },
+    {
+        "subject": "instructions",
+        "predicate": "pretend are hard to understand",
+        "object": "to waste time",
+        "timestamp": "2025-01-21T03:25:05.742822"
+    },
+    {
+        "subject": "workplace sabotage",
+        "predicate": "techniques",
+        "object": "measuring twice, pretending not to understand instructions, asking for instructions to be repeated, doing poor work, blaming tools, filling out forms illegibly, joining employee problem groups, misrouting materials, mixing good parts with scrap, giving long explanations, reporting imaginary dangers, acting stupid, being irritable, misunderstanding regulations, complaining about ersatz materials, treating axis nationals coldly, and sobbing hysterically.",
+        "timestamp": "2025-01-21T03:25:15.625006"
+    },
+    {
+        "subject": "Behavior during occupation",
+        "predicate": "Advice",
+        "object": "Act stupid, be irritable, misunderstand regulations, complain about ersatz materials, treat axis nationals coldly, stop conversation, cry hysterically, boycott movies, entertainments, concerts, newspapers, and do not cooperate in salvage schemes",
+        "timestamp": "2025-01-21T03:25:21.971102"
+    },
+    {
+        "subject": "NEVER OUTSHINE THE MASTER JUDGMENT",
+        "predicate": "advice",
+        "object": "Always make those above you feel comfortably superior. In your desire to please and impress them, do not go too far in displaying your talents or you might accomplish the opposite - inspire fear and insecurity. Make your masters appear more brilliant than they are and you will attain the heights of power.",
+        "timestamp": "2025-01-21T03:52:00.031091"
+    },
+    {
+        "subject": "Nicolas Fouquet",
+        "predicate": "role",
+        "object": "Louis XIV's finance minister in the first years of his reign",
+        "timestamp": "2025-01-21T03:52:00.031100"
+    },
+    {
+        "subject": "Nicolas Fouquet",
+        "predicate": "character",
+        "object": "clever and very much indispensable to the king",
+        "timestamp": "2025-01-21T03:52:00.031102"
+    },
+    {
+        "subject": "Nicolas Fouquet",
+        "predicate": "expectation",
+        "object": "to be named the successor after the prime minister, Jules Mazarin, died",
+        "timestamp": "2025-01-21T03:52:00.031104"
+    },
+    {
+        "subject": "Nicolas Fouquet",
+        "predicate": "action",
+        "object": "staging the most spectacular party the world had ever seen",
+        "timestamp": "2025-01-21T03:52:00.031106"
+    },
+    {
+        "subject": "party",
+        "predicate": "purpose",
+        "object": "to commemorate the completion of Fouquet's chateau, Vaux-le-Vicomte",
+        "timestamp": "2025-01-21T03:52:00.031108"
+    },
+    {
+        "subject": "party",
+        "predicate": "real function",
+        "object": "to pay tribute to the king, the guest of honor",
+        "timestamp": "2025-01-21T03:52:00.031109"
+    },
+    {
+        "subject": "guests",
+        "predicate": "included",
+        "object": "the most brilliant nobility of Europe and some of the greatest minds of the time",
+        "timestamp": "2025-01-21T03:52:00.031111"
+    },
+    {
+        "subject": "guests",
+        "predicate": "specifically",
+        "object": "La Fontaine, La Rochefoucauld, Madame de Sevigne",
+        "timestamp": "2025-01-21T03:52:00.031112"
+    },
+    {
+        "subject": "Moliere",
+        "predicate": "action",
+        "object": "wrote a play for the occasion",
+        "timestamp": "2025-01-21T03:52:00.031113"
+    },
+    {
+        "subject": "Moliere",
+        "predicate": "action",
+        "object": "was to perform at the evening's conclusion",
+        "timestamp": "2025-01-21T03:52:00.031115"
+    },
+    {
+        "subject": "party",
+        "predicate": "initially",
+        "object": "a lavish seven-course dinner",
+        "timestamp": "2025-01-21T03:52:00.031116"
+    },
+    {
+        "subject": "dinner",
+        "predicate": "features",
+        "object": "foods from the Orient never before tasted in France, as well as new dishes created especially for the night",
+        "timestamp": "2025-01-21T03:52:00.031118"
+    },
+    {
+        "subject": "dinner",
+        "predicate": "accompanying",
+        "object": "music commissioned by Fouquet to honor the king",
+        "timestamp": "2025-01-21T03:52:00.031119"
+    },
+    {
+        "subject": "party",
+        "predicate": "subsequent",
+        "object": "promenade through the chateau's gardens",
+        "timestamp": "2025-01-21T03:52:00.031120"
+    },
+    {
+        "subject": "gardens",
+        "predicate": "inspiration",
+        "object": "the inspiration for Versailles",
+        "timestamp": "2025-01-21T03:52:00.031122"
+    },
+    {
+        "subject": "Fouquet",
+        "predicate": "personally",
+        "object": "accompanied the young king through the geometrically aligned arrangements of shrubbery and flower beds",
+        "timestamp": "2025-01-21T03:52:00.031123"
+    },
+    {
+        "subject": "arrivals",
+        "predicate": "witnessed",
+        "object": "a fireworks display, which was followed by the performance of Moliere's play",
+        "timestamp": "2025-01-21T03:52:00.031124"
+    },
+    {
+        "subject": "Fouquet",
+        "predicate": "commissioned",
+        "object": "music",
+        "timestamp": "2025-01-21T03:52:24.643798"
+    },
+    {
+        "subject": "Fouquet",
+        "predicate": "hosted",
+        "object": "party",
+        "timestamp": "2025-01-21T03:52:24.643802"
+    },
+    {
+        "subject": "party",
+        "predicate": "included",
+        "object": "promenade",
+        "timestamp": "2025-01-21T03:52:24.643803"
+    },
+    {
+        "subject": "party",
+        "predicate": "included",
+        "object": "fireworks",
+        "timestamp": "2025-01-21T03:52:24.643804"
+    },
+    {
+        "subject": "party",
+        "predicate": "included",
+        "object": "play",
+        "timestamp": "2025-01-21T03:52:24.643805"
+    },
+    {
+        "subject": "Fouquet",
+        "predicate": "arrested",
+        "object": "D'Artagnan",
+        "timestamp": "2025-01-21T03:52:24.643806"
+    },
+    {
+        "subject": "Fouquet",
+        "predicate": "sentenced",
+        "object": "prison",
+        "timestamp": "2025-01-21T03:52:24.643808"
+    },
+    {
+        "subject": "Louis XIV",
+        "predicate": "built",
+        "object": "Versailles",
+        "timestamp": "2025-01-21T03:52:24.643809"
+    },
+    {
+        "subject": "Versailles",
+        "predicate": "hosted",
+        "object": "parties",
+        "timestamp": "2025-01-21T03:52:24.643810"
+    },
+    {
+        "subject": "Fouquet",
+        "predicate": "hosted",
+        "object": "extravagant parties",
+        "timestamp": "2025-01-21T03:52:44.284430"
+    },
+    {
+        "subject": "Fouquet",
+        "predicate": "thought",
+        "object": "parties would demonstrate loyalty and devotion to the king",
+        "timestamp": "2025-01-21T03:52:44.284436"
+    },
+    {
+        "subject": "Fouquet",
+        "predicate": "thought",
+        "object": "parties would show good taste, connections, and popularity",
+        "timestamp": "2025-01-21T03:52:44.284438"
+    },
+    {
+        "subject": "Fouquet",
+        "predicate": "thought",
+        "object": "would make an excellent prime minister",
+        "timestamp": "2025-01-21T03:52:44.284440"
+    },
+    {
+        "subject": "Louis XIV",
+        "predicate": "felt",
+        "object": "insecure",
+        "timestamp": "2025-01-21T03:52:44.284441"
+    },
+    {
+        "subject": "Louis XIV",
+        "predicate": "rid himself of",
+        "object": "Fouquet",
+        "timestamp": "2025-01-21T03:52:44.284443"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "invented",
+        "object": "military compass",
+        "timestamp": "2025-01-21T03:52:44.284444"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "dedicated book",
+        "object": "to the Medicis",
+        "timestamp": "2025-01-21T03:52:44.284445"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "discovered",
+        "object": "the moons of Jupiter",
+        "timestamp": "2025-01-21T03:53:00.065533"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "dedicated",
+        "object": "a book explaining the use of the military compass",
+        "timestamp": "2025-01-21T03:53:00.065537"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "dedicated",
+        "object": "the discovery of Jupiter's moons",
+        "timestamp": "2025-01-21T03:53:00.065539"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "commissioned",
+        "object": "an emblem representing Jupiter with the four stars circling about him",
+        "timestamp": "2025-01-21T03:53:00.065540"
+    },
+    {
+        "subject": "Medici",
+        "predicate": "symbolized",
+        "object": "Jupiter, the mightiest of the gods",
+        "timestamp": "2025-01-21T03:53:00.065541"
+    },
+    {
+        "subject": "Medici",
+        "predicate": "symbolized",
+        "object": "a power that went beyond politics and banking, one linked to ancient Rome and its divinities",
+        "timestamp": "2025-01-21T03:53:00.065542"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "linked",
+        "object": "the Medicis with cosmic forces",
+        "timestamp": "2025-01-21T03:53:21.855828"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "gained",
+        "object": "more with his new strategy than he had in years of begging",
+        "timestamp": "2025-01-21T03:53:21.855833"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "gave the Medicis",
+        "object": "glory by linking their name with cosmic forces",
+        "timestamp": "2025-01-21T03:53:21.855834"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "made the master outshine all others",
+        "object": "by literally aligning them with the stars",
+        "timestamp": "2025-01-21T03:53:21.855835"
+    },
+    {
+        "subject": "scientists",
+        "predicate": "must serve",
+        "object": "masters who hold the purse strings",
+        "timestamp": "2025-01-21T03:53:21.855837"
+    },
+    {
+        "subject": "masters",
+        "predicate": "want to appear",
+        "object": "more brilliant than other people",
+        "timestamp": "2025-01-21T03:53:21.855838"
+    },
+    {
+        "subject": "masters",
+        "predicate": "want to feel",
+        "object": "more important than the work produced in their name",
+        "timestamp": "2025-01-21T03:53:21.855839"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "made the Medicis shine brilliantly among the courts of Italy",
+        "object": "by literally aligning them with the stars",
+        "timestamp": "2025-01-21T03:53:34.915792"
+    },
+    {
+        "subject": "Louis XIV",
+        "predicate": "replaced the sparkling Fouquet with the bland Colbert",
+        "object": "to replace someone less intelligent, less attractive, less threatening",
+        "timestamp": "2025-01-21T03:53:34.915797"
+    },
+    {
+        "subject": "Astorre Manfredi",
+        "predicate": "captivated his subjects with his generosity and open spirit",
+        "object": "and was the most handsome of all the young princes of Italy",
+        "timestamp": "2025-01-21T03:53:34.915798"
+    },
+    {
+        "subject": "Astorre Manfredi",
+        "predicate": "was outshining",
+        "object": "Cesare Borgia",
+        "timestamp": "2025-01-21T03:53:44.605478"
+    },
+    {
+        "subject": "Cesare Borgia",
+        "predicate": "killed",
+        "object": "Astorre Manfredi",
+        "timestamp": "2025-01-21T03:53:44.605482"
+    },
+    {
+        "subject": "Sen no Rikyu",
+        "predicate": "was arrested and sentenced to",
+        "object": "death",
+        "timestamp": "2025-01-21T03:53:44.605483"
+    },
+    {
+        "subject": "flattery",
+        "predicate": "is powerful",
+        "object": "for courtiers",
+        "timestamp": "2025-01-21T03:55:16.473405"
+    },
+    {
+        "subject": "superior intelligence",
+        "predicate": "should be disguised",
+        "object": "as inferior intelligence",
+        "timestamp": "2025-01-21T03:55:16.473409"
+    },
+    {
+        "subject": "creative ideas",
+        "predicate": "should be attributed to the master",
+        "object": "to maintain favor",
+        "timestamp": "2025-01-21T03:55:16.473410"
+    },
+    {
+        "subject": "wit",
+        "predicate": "can be displayed through humor",
+        "object": "as long as it does not overshadow the master",
+        "timestamp": "2025-01-21T03:55:16.473412"
+    },
+    {
+        "subject": "sociability and generosity",
+        "predicate": "should be balanced",
+        "object": "to avoid overshadowing the master",
+        "timestamp": "2025-01-21T03:55:16.473413"
+    },
+    {
+        "subject": "disguising strengths",
+        "predicate": "can lead to power",
+        "object": "by maintaining control",
+        "timestamp": "2025-01-21T03:55:16.473415"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "can enhance the master's reputation",
+        "object": "resulting in promotion",
+        "timestamp": "2025-01-21T03:55:16.473419"
+    },
+    {
+        "subject": "sun",
+        "predicate": "is the master",
+        "object": "in a courtly hierarchy",
+        "timestamp": "2025-01-21T03:55:16.473421"
+    },
+    {
+        "subject": "Galileo",
+        "predicate": "made his master shine",
+        "object": "in the eyes of others",
+        "timestamp": "2025-01-21T03:55:38.778501"
+    },
+    {
+        "subject": "stars in the sky",
+        "predicate": "teach a lesson",
+        "object": "on not outshining the master",
+        "timestamp": "2025-01-21T03:55:38.778505"
+    },
+    {
+        "subject": "superiority",
+        "predicate": "is odious",
+        "object": "when a subject outshines his prince",
+        "timestamp": "2025-01-21T03:55:38.778506"
+    },
+    {
+        "subject": "superiority",
+        "predicate": "is odious",
+        "object": "when a subject outshines his superior",
+        "timestamp": "2025-01-21T03:55:38.778507"
+    },
+    {
+        "subject": "outshining a feeble superior",
+        "predicate": "may appear",
+        "object": "cruel or spiteful",
+        "timestamp": "2025-01-21T03:55:38.778508"
+    },
+    {
+        "subject": "power",
+        "predicate": "eventually fades and weakens",
+        "object": "over time",
+        "timestamp": "2025-01-21T03:55:38.778510"
+    },
+    {
+        "subject": "friends",
+        "predicate": "should be used",
+        "object": "as enemies",
+        "timestamp": "2025-01-21T03:55:38.778511"
+    },
+    {
+        "subject": "power",
+        "predicate": "eventually fades and weakens",
+        "object": "master",
+        "timestamp": "2025-01-21T03:55:57.733947"
+    },
+    {
+        "subject": "loyalty",
+        "predicate": "more loyal than a friend",
+        "object": "former enemy",
+        "timestamp": "2025-01-21T03:55:57.733952"
+    },
+    {
+        "subject": "trust",
+        "predicate": "more to fear from friends than from enemies",
+        "object": "friends",
+        "timestamp": "2025-01-21T03:55:57.733954"
+    },
+    {
+        "subject": "Michael III",
+        "predicate": "assumed the throne of the Byzantine Empire",
+        "object": "9th century",
+        "timestamp": "2025-01-21T03:55:57.733955"
+    },
+    {
+        "subject": "Bardas",
+        "predicate": "ambition and intelligence",
+        "object": "uncle",
+        "timestamp": "2025-01-21T03:55:57.733956"
+    },
+    {
+        "subject": "Basilius",
+        "predicate": "saved Michael's life",
+        "object": "groom",
+        "timestamp": "2025-01-21T03:55:57.733958"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "needed",
+        "object": "councillor",
+        "timestamp": "2025-01-21T03:56:42.157083"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "trusted",
+        "object": "Basilius",
+        "timestamp": "2025-01-21T03:56:42.157087"
+    },
+    {
+        "subject": "Basilius",
+        "predicate": "saved",
+        "object": "Michael's life",
+        "timestamp": "2025-01-21T03:56:42.157089"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "promoted",
+        "object": "Basilius",
+        "timestamp": "2025-01-21T03:56:42.157090"
+    },
+    {
+        "subject": "Basilius",
+        "predicate": "became",
+        "object": "courtier",
+        "timestamp": "2025-01-21T03:56:42.157091"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "chose",
+        "object": "Basilius",
+        "timestamp": "2025-01-21T03:56:42.157093"
+    },
+    {
+        "subject": "Basilius",
+        "predicate": "learned",
+        "object": "well",
+        "timestamp": "2025-01-21T03:56:42.157094"
+    },
+    {
+        "subject": "Basilius",
+        "predicate": "advised",
+        "object": "Michael",
+        "timestamp": "2025-01-21T03:56:42.157095"
+    },
+    {
+        "subject": "Basilius",
+        "predicate": "was",
+        "object": "avaricious",
+        "timestamp": "2025-01-21T03:56:42.157096"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "gave",
+        "object": "Basilius gifts and favors",
+        "timestamp": "2025-01-21T03:56:42.157097"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "loved",
+        "object": "Basilius like a brother",
+        "timestamp": "2025-01-21T03:56:42.157099"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "married",
+        "object": "Basilius to his own mistress",
+        "timestamp": "2025-01-21T03:56:42.157100"
+    },
+    {
+        "subject": "Bardas",
+        "predicate": "conspired",
+        "object": "against Michael",
+        "timestamp": "2025-01-21T03:56:42.157101"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "gave",
+        "object": "Basilius more money",
+        "timestamp": "2025-01-21T03:56:42.157103"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "trusted",
+        "object": "Bardas",
+        "timestamp": "2025-01-21T03:56:42.157105"
+    },
+    {
+        "subject": "Bardas",
+        "predicate": "conspired",
+        "object": "against Michael again",
+        "timestamp": "2025-01-21T03:56:42.157106"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "doubled his salary",
+        "object": "salary",
+        "timestamp": "2025-01-21T03:57:17.509903"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "tripled his salary",
+        "object": "salary",
+        "timestamp": "2025-01-21T03:57:17.509909"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "married off to",
+        "object": "Eudoxia Ingerina",
+        "timestamp": "2025-01-21T03:57:17.509911"
+    },
+    {
+        "subject": "Bardas",
+        "predicate": "head of the army",
+        "object": "army",
+        "timestamp": "2025-01-21T03:57:17.509916"
+    },
+    {
+        "subject": "Basilius",
+        "predicate": "convinced",
+        "object": "Michael to have his uncle murdered",
+        "timestamp": "2025-01-21T03:57:17.509918"
+    },
+    {
+        "subject": "Basilius",
+        "predicate": "asked to replace Bardas as head of the army",
+        "object": "head of the army",
+        "timestamp": "2025-01-21T03:57:17.509919"
+    },
+    {
+        "subject": "Michael",
+        "predicate": "asked Basilius to pay back money he had borrowed",
+        "object": "money",
+        "timestamp": "2025-01-21T03:57:17.509921"
+    },
+    {
+        "subject": "Basilius",
+        "predicate": "refused",
+        "object": "Michael's request",
+        "timestamp": "2025-01-21T03:57:17.509923"
+    },
+    {
+        "subject": "Diane de Poitiers",
+        "predicate": "mistress of",
+        "object": "Henri II of France",
+        "timestamp": "2025-01-21T03:57:17.509924"
+    },
+    {
+        "subject": "Louis XIV",
+        "predicate": "made a hundred discontented persons and one ingrate",
+        "object": "vacant office",
+        "timestamp": "2025-01-21T03:57:17.509926"
+    },
+    {
+        "subject": "Baldassare Castiglione",
+        "predicate": "believed that it rnay be right to love and serve one person above all others",
+        "object": "love and serve",
+        "timestamp": "2025-01-21T03:57:17.509927"
+    },
+    {
+        "subject": "Baldassare Castiglione",
+        "predicate": "advised",
+        "object": "to love and serve one person above all others, according to merit and worth, but never to trust too much in friendship",
+        "timestamp": "2025-01-21T03:57:42.412596"
+    },
+    {
+        "subject": "snake",
+        "predicate": "asked a farmer to save its life",
+        "object": "by crawling into his belly",
+        "timestamp": "2025-01-21T03:57:42.412601"
+    },
+    {
+        "subject": "farmer",
+        "predicate": "refused to come out",
+        "object": "after the danger had passed",
+        "timestamp": "2025-01-21T03:57:42.412602"
+    },
+    {
+        "subject": "heron",
+        "predicate": "caught and killed the snake",
+        "object": "after the snake snuck its head out",
+        "timestamp": "2025-01-21T03:57:42.412604"
+    },
+    {
+        "subject": "farmer",
+        "predicate": "worried that the snake's poison might still be inside him",
+        "object": "and the heron told him that the cure for snake poison was to cook and eat six white fowl",
+        "timestamp": "2025-01-21T03:57:42.412605"
+    },
+    {
+        "subject": "farmer",
+        "predicate": "grabbed and killed the heron",
+        "object": "after the heron told him to cook and eat six white fowl",
+        "timestamp": "2025-01-21T03:57:42.412606"
+    },
+    {
+        "subject": "heron",
+        "predicate": "gouged out the farmer's wife's eyes",
+        "object": "on its way",
+        "timestamp": "2025-01-21T03:57:42.412607"
+    },
+    {
+        "subject": "emperor",
+        "predicate": "realized his predicament",
+        "object": "that the former stable boy had more money, more allies in the army and senate, and more power than the emperor himself",
+        "timestamp": "2025-01-21T03:57:42.412608"
+    }
+]
