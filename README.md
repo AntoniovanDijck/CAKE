@@ -1,4 +1,5 @@
 # CAKE: Context-Aware Knowledge Extraction
+![](./header.png)
 The Context-Aware Knowledge Extraction framework is designed to improve the Performance of LLMs with Knowledge Extraction aglorithms. The framework is designed to extract and utilize contextual knowledge from multiple modalities, such as video, audio, and text.
 
 Demo: https://cakeframework.vercel.app/
