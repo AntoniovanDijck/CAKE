@@ -8,7 +8,6 @@ torchvision==0.15.1 # transcribe_pipeline
 tqdm 
 requests 
 whisperx==3.1.5 # transcribe_pipeline
-tqdm
 pydub
 chonkie
 chonkie[semantic]

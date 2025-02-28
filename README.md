@@ -5,16 +5,16 @@ The Context-Aware Knowledge Extraction framework is designed to improve the Perf
 CAKE (Context-Aware Knowledge Extraction) is a research project focused on improving the performance of Large Language Models (LLMs) by extracting and utilizing contextual knowledge from multiple modalities, such as video, audio, and text. The project aims to bridge the gap between structured knowledge management and AI-driven decision support.
 
 ## Problem Statement
-Traditional knowledge management systems rely on structured databases and predefined taxonomies, but they struggle to capture nuanced and context-dependent knowledge. This project proposes a novel AI-driven framework to extract, structure, and store tacit knowledge for effective retrieval and application in real-world scenarios.
+Traditional knowledge management systems rely on structured databases and predefined taxonomies, but they struggle to capture nuanced and context-dependent knowledge. This project proposes a flexible framework to extract, structure, and store crucial knowledge for effective retrieval and application in real-world scenarios.
 
 ## Research Question
-**Can Large Language Models utilize and extract crucial knowledge from different modalities to improve the accuracy and quality of generated responses?**
+**Can Large Language Models utilize and extract crucial knowledge from different modalities to improve the accuracy and the quality of generated responses?**
 
 ### Sub-Questions
-- What methodologies exist for knowledge extraction, and how can they be adapted for LLMs?
+- What methodologies exist for knowledge extraction, and how can they be adapted for LLM's?
 - What are the challenges in extracting knowledge from multi-modal data?
 - What role does knowledge have in enhancing the performance of Large Language Models over time?
-- What role do LLMs play in creating a flexible and scalable knowledge framework?
+- What are the challenges in extracting knowledge from multi-modal data?
 - What are the computational and ethical considerations in deploying such a framework?
 
 ## Approach
@@ -51,8 +51,6 @@ This research introduces a Context-Aware Knowledge Extraction pipeline that auto
 git clone https://github.com/AntoniovanDijck/CAKE.git
 cd CAKE
 ```
-
-
 
 ### Running the CAKE Pipeline
 The CAKE pipeline provides flexibility to execute different components as needed. You can run the **knowledge extraction pipeline**, **evaluate the pipeline**, and **test extracted knowledge via chatbot** using command-line arguments.
