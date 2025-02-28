@@ -100,7 +100,6 @@ To evaluate more additional **LLM models**, place their **GGUF** files inside th
 
 ```bash
 # Place GGUF model files in the 'models/' directory
-
 ./pipelines/Knowledge_Extraction_Pipeline/data/models/
 
 # Run the evaluation script
