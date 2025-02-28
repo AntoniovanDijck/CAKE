@@ -144,7 +144,7 @@ The framework successfully extracts and structures critical knowledge, leading t
 For a comprehensive list of related research and citations, please refer to the **Bibliography** section in the thesis document.
 
 ## Acknowledgements
-I would like to express my sincere gratitude to my supervisors, **Dr. S. van Splunter** and **Dr. Ir. J.R. Helmus**, for their invaluable guidance and support throughout this research. Also, a special thanks to Jesse Jan van Schouten for his insights and collaboration on .
+I would like to express my gratitude to my supervisors, **Dr. Ir. J.R. Helmus** and **Dr. S. van Splunter**, for their invaluable guidance and support throughout this research. Also a special thanks to Jesse Jan van Schouten for his insights and collaboration.
 
 ### Author: Antonio Adrian Cornelis van Dijck  
 **Student Number:** 12717673  
