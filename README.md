@@ -71,7 +71,7 @@ Use the following command-line arguments to run specific components:
 - `-run` → Run the **knowledge extraction pipeline**.
 - `-eval` → Run the **evaluation process**.
 - `-chat` → Test the extracted knowledge with a **chatbot interface**.
-- `-run_all` → Run **all components** (pipeline, evaluation, and chatbot).
+- `-run_all` → Run **all components** (pipeline, evaluation, and chat).
 
 #### Example Commands:
 ```bash
