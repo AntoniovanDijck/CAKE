@@ -136,4 +136,5 @@ I would like to express my sincere gratitude to my supervisors, **Dr. S. van Spl
 
 ## Contributors
 **Antonio Adrian Cornelis van Dijck**: Context-Aware Knowledge Extraction Framework 
+
 **Jesse van Schouten**: - Semantic Context Transcription Pipeline
