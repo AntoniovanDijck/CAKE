@@ -19,18 +19,18 @@ Traditional knowledge management systems rely on structured databases and predef
 - What are the computational and ethical considerations in deploying such a framework?
 
 ## Approach
-This research introduces an Context-Aware Knowledge Extraction pipeline that automatically processes multi-modal (video, audio or text) data to extract, structure, and retrieve valuable knowledge. The framework includes:
+This research introduces a Context-Aware Knowledge Extraction pipeline that automatically processes multi-modal (video, audio, or text) data to extract, structure, and retrieve valuable knowledge. The framework includes:
 
 1. **Semantic Context Transcription Pipeline**
-   - Audio data processing using Whisper and TensorFlow LLama.ccp.
-   - Text chunking using Semantic Double-Pass Merging for improved context preservation chunking.
+   - Audio data processing using Whisper and TensorFlow LLama.cpp.
+   - Text chunking using Semantic Double-Pass Merging for improved context preservation.
 
 2. **Semantic Knowledge Extraction Pipeline**
    - Local AI processing for efficient knowledge extraction.
    - Contextual embeddings for improved knowledge representation.
 
 3. **Integration of Pipelines**
-   - Combining extracted knowledge with Large Language Model to improve accuracy of generated responses.
+   - Combining extracted knowledge with Large Language Models to improve the accuracy of generated responses.
    - Implementing FAISS for fast similarity search for extracted knowledge in the vector database.
 
 ## Technologies Used
@@ -46,6 +46,56 @@ This research introduces an Context-Aware Knowledge Extraction pipeline that aut
 - Implementation of a FAISS-based vector database retrieval mechanism.
 - Exploration of knowledge graphs and their role for Large Language Models.
 
+## Usage
+
+### Running the CAKE Pipeline
+The CAKE pipeline provides flexibility to execute different components as needed. You can run the **knowledge extraction pipeline**, **evaluate the pipeline**, and **test extracted knowledge via chatbot** using command-line arguments.
+
+### Install Dependencies
+Before running the pipeline, install the required dependencies:
+
+\`\`\`bash
+pip install -r requirements.txt
+\`\`\`
+
+### Running Specific Components
+Use the following command-line arguments to run specific components:
+
+- \`-run\` → Run the **knowledge extraction pipeline**.
+- \`-eval\` → Run the **evaluation process**.
+- \`-chat\` → Test the extracted knowledge with a **chatbot interface**.
+- \`-run_all\` → Run **all components** (pipeline, evaluation, and chatbot).
+
+#### Example Commands:
+\`\`\`bash
+# Run the full pipeline
+python main.py -run
+
+# Evaluate the pipeline
+python main.py -eval
+
+# Test extracted knowledge via chatbot
+python main.py -chat
+
+# Run all components (pipeline, evaluation, and chatbot)
+python main.py -run_all
+\`\`\`
+
+
+### Evaluating Additional Models
+To evaluate more additional **LLM models**, place their **GGUF** files inside the \`models/\` directory. The evaluation script will automatically detect and include them in the evaluation.
+
+\`\`\`bash
+# Place GGUF model files in the 'models/' directory
+
+./pipelines/Knowledge_Extraction_Pipeline/data/models/
+
+# Run the evaluation script
+python main.py -eval
+\`\`\`
+
+The script loads all available models in the \`models/\` folder and runs the evaluation process.
+
 ## Results & Findings
 The framework successfully extracts and structures critical knowledge, leading to improved accuracy in LLM-generated responses. The FAISS-based retrieval system enhances real-time knowledge access for technical support applications, reducing dependency on static documentation or Retrieval Augmented Generation (RAG).
 
@@ -54,14 +104,14 @@ The framework successfully extracts and structures critical knowledge, leading t
 - Further optimization of knowledge graph construction algorithms and ontology.
 - Exploring the impact of real-time knowledge updates.
 - Exploring methods of knowledge management.
-- Exploring the impact of the top-k parameter of the retrieved knowledge on the quality of generated responses.
-- Implementing SAM-2 and Visual Question Answering Model (VQA) for multi-modal knowledge extraction.
+- Investigating the impact of the top-k parameter of the retrieved knowledge on the quality of generated responses.
+- Implementing SAM-2 and a Visual Question Answering Model (VQA) for multi-modal knowledge extraction.
 
 ## References
 For a comprehensive list of related research and citations, please refer to the **Bibliography** section in the thesis document.
 
 ## Acknowledgements
-I would like to express my sincere gratitude to my supervisors, **Dr. S. van Splunter** and **Dr. J. Helmus** , for their invaluable guidance and support throughout this research. Also a special thanks to Jesse for their insights and collaboration.
+I would like to express my sincere gratitude to my supervisors, **Dr. S. van Splunter** and **Dr. J. Helmus**, for their invaluable guidance and support throughout this research. Also, a special thanks to Jesse for his insights and collaboration.
 
 ### Author: Antonio Adrian Cornelis van Dijck  
 **Student Number:** 12717673  
@@ -70,9 +120,9 @@ I would like to express my sincere gratitude to my supervisors, **Dr. S. van Spl
 **University of Amsterdam**  
 **Faculty of Science**  
 
-### Supervisor  
+### Supervisors  
 **Dr. J. Helmus**  
 **Dr. S. van Splunter**  
 **Informatics Institute**  
 **Faculty of Science**  
-**University of Amsterdam**  
+**University of Amsterdam**

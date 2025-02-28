@@ -1,0 +1,337 @@
+[
+    {
+        "question": "Where is the evap canister typically located in a vehicle?",
+        "options": [
+            "Underneath the vehicle on the right side",
+            "Inside the passenger compartment",
+            "On top of the engine block",
+            "In the fuel tank"
+        ],
+        "correct_answer": "Underneath the vehicle on the right side",
+        "llm_answer_with_kb": "Underneath the vehicle on the right side",
+        "llm_answer_without_kb": "Inside the passenger compartment"
+    },
+    {
+        "question": "What holds the evap canister in place?",
+        "options": [
+            "Two 12mm pieces of rust",
+            "Two 12mm bolts or nuts",
+            "A single 12mm bolt",
+            "No fasteners, it is welded in place"
+        ],
+        "correct_answer": "Two 12mm bolts or nuts",
+        "llm_answer_with_kb": "Two 12mm pieces of rust\n\n(Note: The answer is selected based on the provided information that the evap canister is held in by two 12mm pieces of rust, as indicated in the given timestamps.)",
+        "llm_answer_without_kb": "Two 12mm bolts or nuts"
+    },
+    {
+        "question": "Where can the evap canister be removed from?",
+        "options": [
+            "Above the subframe",
+            "Below the subframe",
+            "Underneath the gas tank location",
+            "Inside the vacuum hoses"
+        ],
+        "correct_answer": "Above the subframe",
+        "llm_answer_with_kb": "- evap canister can be removed from above the subframe (Videotimestamps: start: 19.815, end: 32.579)",
+        "llm_answer_without_kb": "Underneath the gas tank location."
+    },
+    {
+        "question": "Which of the following is a step that should be performed before removing the evap canister?",
+        "options": [
+            "Vacuum hoses and electrical connectors disconnected from this side of the evap canister",
+            "Evap canister can be removed from above the subframe",
+            "Rear seat of the vehicle underneath gas tank location",
+            "Replacing the gas tank"
+        ],
+        "correct_answer": "Vacuum hoses and electrical connectors disconnected from this side of the evap canister",
+        "llm_answer_with_kb": "Vacuum hoses and electrical connectors disconnected from this side of the evap canister",
+        "llm_answer_without_kb": "Vacuum hoses and electrical connectors disconnected from this side of the evap canister."
+    },
+    {
+        "question": "How many 14mm bolts are used to hold the strap onto the gas tank?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer": "2",
+        "llm_answer_with_kb": "2",
+        "llm_answer_without_kb": "4"
+    },
+    {
+        "question": "Which statement is true regarding the evap check valve?",
+        "options": [
+            "It has rust",
+            "It has screws",
+            "It contains a spring",
+            "It contains a float"
+        ],
+        "correct_answer": "It has screws",
+        "llm_answer_with_kb": "evap check valve has rust (Videotimestamps: start: 185.931, end: 210.072)",
+        "llm_answer_without_kb": "It contains a spring."
+    },
+    {
+        "question": "What component is likely to be found in the top lid of the evap system?",
+        "options": [
+            "Spring",
+            "Float",
+            "Check valve",
+            "Rust"
+        ],
+        "correct_answer": "Float",
+        "llm_answer_with_kb": "Check valve",
+        "llm_answer_without_kb": "Float"
+    },
+    {
+        "question": "What step is required before removing the rust pieces to fill the check valve?",
+        "options": [
+            "Stripping the rust pieces",
+            "Grinding the rust pieces",
+            "Filling the check valve",
+            "Removing six rust pieces"
+        ],
+        "correct_answer": "Stripping the rust pieces",
+        "llm_answer_with_kb": "Removing six rust pieces.",
+        "llm_answer_without_kb": "Removing six rust pieces"
+    },
+    {
+        "question": "Which of the following is a necessary step in the process of removing rust pieces around the circumference of the fill check valve?",
+        "options": [
+            "Grinding",
+            "Filling the middle valve",
+            "Stripping the rust pieces",
+            "Removing six rust pieces"
+        ],
+        "correct_answer": "Grinding",
+        "llm_answer_with_kb": "Removing six rust pieces",
+        "llm_answer_without_kb": "Stripping the rust pieces"
+    },
+    {
+        "question": "What is the primary function of an overfill check valve in a system?",
+        "options": [
+            "Allowing liquids to enter the system freely",
+            "Allowing vapors to escape when the liquid level exceeds safe limits",
+            "Preventing the escape of vapors under normal operating conditions",
+            "Regulating the flow of vapors to maintain pressure"
+        ],
+        "correct_answer": "Allowing vapors to escape when the liquid level exceeds safe limits",
+        "llm_answer_with_kb": "Allowing vapors to escape when the liquid level exceeds safe limits",
+        "llm_answer_without_kb": "Allowing vapors to escape when the liquid level exceeds safe limits."
+    },
+    {
+        "question": "What happens when the fuel tank fills up?",
+        "options": [
+            "The float rises and seals off vapor ventilation",
+            "The valve contains a lid",
+            "The lid exposes a diaphragm",
+            "The diaphragm can move up and down"
+        ],
+        "correct_answer": "The float rises and seals off vapor ventilation",
+        "llm_answer_with_kb": "The float rises and seals off vapor ventilation.",
+        "llm_answer_without_kb": "The float rises and seals off vapor ventilation."
+    },
+    {
+        "question": "Which component moves up and down in the fuel tank system?",
+        "options": [
+            "The float",
+            "The valve",
+            "The lid",
+            "The diaphragm"
+        ],
+        "correct_answer": "The diaphragm",
+        "llm_answer_with_kb": "The diaphragm.",
+        "llm_answer_without_kb": "The float"
+    },
+    {
+        "question": "What action does the diaphragm perform in response to atmospheric pressure?",
+        "options": [
+            "Remains stationary",
+            "Moves up and down",
+            "Expands outward",
+            "contracts inward"
+        ],
+        "correct_answer": "Moves up and down",
+        "llm_answer_with_kb": "Moves up and down",
+        "llm_answer_without_kb": "Moves up and down"
+    },
+    {
+        "question": "Which of the following best describes the primary function of a baffle inside a gas tank?",
+        "options": [
+            "To increase the structural integrity of the tank",
+            "To prevent fuel from sloshing back and forth",
+            "To divide the tank into two halves",
+            "To weld the tank together"
+        ],
+        "correct_answer": "To prevent fuel from sloshing back and forth",
+        "llm_answer_with_kb": "To prevent fuel from sloshing back and forth",
+        "llm_answer_without_kb": "To prevent fuel from sloshing back and forth"
+    },
+    {
+        "question": "Which of the following statements is true about the gas tank's construction?",
+        "options": [
+            "The gas tank is constructed of moderately thick sheet metal",
+            "The gas tank is divided into two halves: top half and bottom half",
+            "The gas tank is welded together around the outside",
+            "The baffle runs along the perimeter of the tank"
+        ],
+        "correct_answer": "The gas tank is constructed of moderately thick sheet metal",
+        "llm_answer_with_kb": "The gas tank is constructed of moderately thick sheet metal.",
+        "llm_answer_without_kb": "The gas tank is welded together around the outside."
+    },
+    {
+        "question": "Which of the following statements best describes the relationship between 'filter' and 'spring'?",
+        "options": [
+            "A filter always uses a spring to function.",
+            "A spring is a component that can be found in certain types of filters.",
+            "All springs are used in filters.",
+            "Filters are a type of spring."
+        ],
+        "correct_answer": "A spring is a component that can be found in certain types of filters.",
+        "llm_answer_with_kb": "- filter has spring (Videotimestamps: start: 382.008, end: 389.912)",
+        "llm_answer_without_kb": "A spring is a component that can be found in certain types of filters."
+    },
+    {
+        "question": "If a valve is composed of a spring, what can we infer about the valve's function?",
+        "options": [
+            "The valve can regulate flow without a spring.",
+            "The valve is not related to any mechanical components.",
+            "The valve's function may involve spring-based mechanisms for control.",
+            "The valve is solely for decorative purposes."
+        ],
+        "correct_answer": "The valve's function may involve spring-based mechanisms for control.",
+        "llm_answer_with_kb": "The valve's function may involve spring-based mechanisms for control.",
+        "llm_answer_without_kb": "The valve's function may involve spring-based mechanisms for control."
+    },
+    {
+        "question": "Which of the following is true about a gas cap?",
+        "options": [
+            "It is usually sealed to prevent air from entering the fuel system.",
+            "It is used to release excess fuel pressure.",
+            "It is an alternative to the fuel pump.",
+            "It increases the fuel efficiency of the vehicle."
+        ],
+        "correct_answer": "It is usually sealed to prevent air from entering the fuel system.",
+        "llm_answer_with_kb": "- gas cap is usually sealed (Videotimestamps: start: 390.252, end: 392.933)",
+        "llm_answer_without_kb": "It is usually sealed to prevent air from entering the fuel system."
+    },
+    {
+        "question": "What is the function of a safety valve in a fuel tank system?",
+        "options": [
+            "To prevent excessive pressure in the tank",
+            "To contain a hollow tube for ventilation",
+            "To measure pressure difference between tank and atmospheric pressure",
+            "To have three terminals"
+        ],
+        "correct_answer": "To prevent excessive pressure in the tank",
+        "llm_answer_with_kb": "To prevent excessive pressure in the tank.",
+        "llm_answer_without_kb": "To prevent excessive pressure in the tank."
+    },
+    {
+        "question": "What does the filler neck of a fuel tank typically contain?",
+        "options": [
+            "A hollow tube with a port for ventilation",
+            "A safety valve",
+            "A fuel tank vapor pressure sensor",
+            "Three terminals"
+        ],
+        "correct_answer": "A hollow tube with a port for ventilation",
+        "llm_answer_with_kb": "- filler neck contains hollow tube with a port for ventilation (Videotimestamps: start: 393.173, end: 420.525)",
+        "llm_answer_without_kb": "A hollow tube with a port for ventilation"
+    },
+    {
+        "question": "Which statement is correct regarding the ECU and the evaporation system?",
+        "options": [
+            "ECU uses voltage from middle terminal",
+            "ECU determines evap system leaks",
+            "ECU controls fuel pump",
+            "ECU monitors engine temperature"
+        ],
+        "correct_answer": "ECU determines evap system leaks",
+        "llm_answer_with_kb": "ECU determines evap system leaks",
+        "llm_answer_without_kb": "ECU determines evap system leaks"
+    },
+    {
+        "question": "What is a necessary step when inspecting a vacuum switching valve?",
+        "options": [
+            "Replace the valve with a new one",
+            "Check for rust that needs to be broken off",
+            "Flush the valve with cleaning solution",
+            "Test the valve with a multimeter"
+        ],
+        "correct_answer": "Check for rust that needs to be broken off",
+        "llm_answer_with_kb": "Check for rust that needs to be broken off.",
+        "llm_answer_without_kb": "Check for rust that needs to be broken off"
+    },
+    {
+        "question": "Which of the following best describes the function of a vacuum switching valve in a vehicle?",
+        "options": [
+            "Controlling the engine's ignition timing",
+            "Regulating the air intake to the engine",
+            "Switching between different vacuum sources to control various components",
+            "Managing the fuel injection system"
+        ],
+        "correct_answer": "Switching between different vacuum sources to control various components",
+        "llm_answer_with_kb": "Switching between different vacuum sources to control various components",
+        "llm_answer_without_kb": "Switching between different vacuum sources to control various components"
+    },
+    {
+        "question": "Which component in the fuel system is primarily responsible for absorbing gasoline vapors?",
+        "options": [
+            "Holding tank",
+            "Charcoal canister",
+            "Check valve"
+        ],
+        "correct_answer": "Charcoal canister",
+        "llm_answer_with_kb": "Charcoal canister",
+        "llm_answer_without_kb": "Charcoal canister"
+    },
+    {
+        "question": "What is the role of check valves in the fuel system's vapor control system?",
+        "options": [
+            "To store gasoline vapors",
+            "To absorb gasoline vapors",
+            "To allow air to enter but not exit the system",
+            "To prevent air from entering the fuel tank"
+        ],
+        "correct_answer": "To allow air to enter but not exit the system",
+        "llm_answer_with_kb": "To prevent air from entering the fuel tank\n\nThe overfill check valve, as described in the context, allows vapors to escape when the gas tank is filling up, which prevents air from entering the tank.",
+        "llm_answer_without_kb": "To prevent air from entering the fuel tank"
+    },
+    {
+        "question": "Which of the following statements is true regarding the components of an EVAP (Evaporative Emission Control) system?",
+        "options": [
+            "Check valves are removed for inspection",
+            "Chuck valve contains spring and diaphragm",
+            "Air pressure triggers ball check valve to open",
+            "Charcoal canister contains activated charcoal"
+        ],
+        "correct_answer": "Charcoal canister contains activated charcoal",
+        "llm_answer_with_kb": "Charcoal canister contains activated charcoal.",
+        "llm_answer_without_kb": "Charcoal canister contains activated charcoal."
+    },
+    {
+        "question": "In the EVAP system, which component prevents air from entering when the diaphragm is down?",
+        "options": [
+            "Check valves are removed for inspection",
+            "Chuck valve contains spring and diaphragm",
+            "Diaphragm prevents air from entering when down",
+            "Charcoal canister removed for inspection"
+        ],
+        "correct_answer": "Diaphragm prevents air from entering when down",
+        "llm_answer_with_kb": "Diaphragm prevents air from entering when down",
+        "llm_answer_without_kb": "Diaphragm prevents air from entering when down"
+    },
+    {
+        "question": "What is the primary function of the EVAP system in a vehicle's fuel system?",
+        "options": [
+            "To prevent the release of fuel vapors into the atmosphere",
+            "To increase the engine's power",
+            "To improve the fuel injection timing",
+            "To reduce the fuel consumption"
+        ],
+        "correct_answer": "To prevent the release of fuel vapors into the atmosphere",
+        "llm_answer_with_kb": "- to prevent the release of fuel vapors into the atmosphere",
+        "llm_answer_without_kb": "To prevent the release of fuel vapors into the atmosphere"
+    }
+]

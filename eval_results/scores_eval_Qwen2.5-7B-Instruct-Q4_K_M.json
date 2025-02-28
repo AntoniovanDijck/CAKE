@@ -1,0 +1,13 @@
+{
+    "llm_model": "Qwen2.5-7B-Instruct-Q4_K_M",
+    "total_questions": 28,
+    "scores": {
+        "llm_with_kb": 19,
+        "llm_without_kb": 19
+    },
+    "accuracy": {
+        "llm_with_kb": "67.86%",
+        "llm_without_kb": "67.86%"
+    },
+    "improvement": "0.00%"
+}

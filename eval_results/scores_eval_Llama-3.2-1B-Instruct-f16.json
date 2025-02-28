@@ -1,0 +1,13 @@
+{
+    "llm_model": "Llama-3.2-1B-Instruct-f16",
+    "total_questions": 28,
+    "scores": {
+        "llm_with_kb": 20,
+        "llm_without_kb": 19
+    },
+    "accuracy": {
+        "llm_with_kb": "71.43%",
+        "llm_without_kb": "67.86%"
+    },
+    "improvement": "3.57%"
+}

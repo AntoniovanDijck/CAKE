@@ -1188,5 +1188,551 @@
         "object": "two chambers separated by a wall",
         "start": 551.368,
         "end": 584.197
+    },
+    {
+        "subject": "evap canister",
+        "predicate": "location",
+        "object": "underneath the vehicle on the right side",
+        "start": 1.533,
+        "end": 19.129
+    },
+    {
+        "subject": "evap canister",
+        "predicate": "number of rust pieces holding it in",
+        "object": "two 12mm pieces",
+        "start": 1.533,
+        "end": 19.129
+    },
+    {
+        "subject": "evap canister",
+        "predicate": "can be removed",
+        "object": "from above the subframe",
+        "start": 19.815,
+        "end": 32.579
+    },
+    {
+        "subject": "rear seat of the vehicle",
+        "predicate": "located",
+        "object": "underneath where the gas tank is",
+        "start": 19.815,
+        "end": 32.579
+    },
+    {
+        "subject": "strap",
+        "predicate": "is held by",
+        "object": "two 14mm bolts",
+        "start": 38.32,
+        "end": 45.022
+    },
+    {
+        "subject": "evap check valve",
+        "predicate": "is_fixed_with",
+        "object": "four pieces of rust",
+        "start": 185.931,
+        "end": 210.072
+    },
+    {
+        "subject": "float",
+        "predicate": "prevents",
+        "object": "liquid gasoline from getting sucked into the charcoal canister",
+        "start": 185.931,
+        "end": 210.072
+    },
+    {
+        "subject": "float",
+        "predicate": "is_part_of",
+        "object": "evap float mechanism",
+        "start": 185.931,
+        "end": 210.072
+    },
+    {
+        "subject": "evap float mechanism",
+        "predicate": "contains",
+        "object": "a spring",
+        "start": 185.931,
+        "end": 210.072
+    },
+    {
+        "subject": "evap float mechanism",
+        "predicate": "has",
+        "object": "a float that moves up and down",
+        "start": 185.931,
+        "end": 210.072
+    },
+    {
+        "subject": "fill_check_valve",
+        "predicate": "removal",
+        "object": "six_rust_pieces",
+        "start": 210.292,
+        "end": 225.38
+    },
+    {
+        "subject": "rust_pieces",
+        "predicate": "location",
+        "object": "circumference",
+        "start": 210.292,
+        "end": 225.38
+    },
+    {
+        "subject": "removal_method",
+        "predicate": "requires",
+        "object": "grinding",
+        "start": 210.292,
+        "end": 225.38
+    },
+    {
+        "subject": "grinding",
+        "predicate": "caution",
+        "object": "sparks",
+        "start": 210.292,
+        "end": 225.38
+    },
+    {
+        "subject": "overfill check valve",
+        "predicate": "functions to allow",
+        "object": "vapors to escape",
+        "start": 225.54,
+        "end": 266.868
+    },
+    {
+        "subject": "fuel tank",
+        "predicate": "fills",
+        "object": "float",
+        "start": 269.148,
+        "end": 287.501
+    },
+    {
+        "subject": "float",
+        "predicate": "rises",
+        "object": "seals vapor ventilation",
+        "start": 269.148,
+        "end": 287.501
+    },
+    {
+        "subject": "float",
+        "predicate": "prevents",
+        "object": "liquid from entering charcoal canister",
+        "start": 269.148,
+        "end": 287.501
+    },
+    {
+        "subject": "engineer",
+        "predicate": "opens",
+        "object": "fuel check valve",
+        "start": 269.148,
+        "end": 287.501
+    },
+    {
+        "subject": "fuel check valve",
+        "predicate": "contains",
+        "object": "lid",
+        "start": 269.148,
+        "end": 287.501
+    },
+    {
+        "subject": "lid",
+        "predicate": "exposes",
+        "object": "diaphragm",
+        "start": 269.148,
+        "end": 287.501
+    },
+    {
+        "subject": "diaphragm",
+        "predicate": "moves",
+        "object": "up and down with atmospheric pressure",
+        "start": 287.741,
+        "end": 312.458
+    },
+    {
+        "subject": "vapor",
+        "predicate": "moves into",
+        "object": "charcoal canister",
+        "start": 287.741,
+        "end": 312.458
+    },
+    {
+        "subject": "fuel cap",
+        "predicate": "prevents",
+        "object": "vapors from escaping",
+        "start": 287.741,
+        "end": 312.458
+    },
+    {
+        "subject": "gas tank",
+        "predicate": "has internal components",
+        "object": "that can be observed after cutting open",
+        "start": 287.741,
+        "end": 312.458
+    },
+    {
+        "subject": "baffle",
+        "predicate": "located in",
+        "object": "inside the gas tank",
+        "start": 312.478,
+        "end": 330.622
+    },
+    {
+        "subject": "baffle",
+        "predicate": "runs along",
+        "object": "the perimeter of the tank",
+        "start": 312.478,
+        "end": 330.622
+    },
+    {
+        "subject": "baffle",
+        "predicate": "purpose",
+        "object": "prevent fuel from sloshing back and forth",
+        "start": 312.478,
+        "end": 330.622
+    },
+    {
+        "subject": "vehicle",
+        "predicate": "causes",
+        "object": "fuel from sloshing back and forth",
+        "start": 312.478,
+        "end": 330.622
+    },
+    {
+        "subject": "valve",
+        "predicate": "is composed of",
+        "object": "spring",
+        "start": 382.008,
+        "end": 389.912
+    },
+    {
+        "subject": "plastic collar with flap",
+        "predicate": "functions as",
+        "object": "fuel tank vapor pressure sensor",
+        "start": 393.173,
+        "end": 420.525
+    },
+    {
+        "subject": "fuel tank vapor pressure sensor",
+        "predicate": "measures",
+        "object": "pressure differential between tank and atmosphere",
+        "start": 393.173,
+        "end": 420.525
+    },
+    {
+        "subject": "fuel tank vapor pressure sensor",
+        "predicate": "has",
+        "object": "three terminals",
+        "start": 393.173,
+        "end": 420.525
+    },
+    {
+        "subject": "voltage",
+        "predicate": "determines",
+        "object": "evap system leaks",
+        "start": 420.545,
+        "end": 433.55
+    },
+    {
+        "subject": "procedure",
+        "predicate": "involves",
+        "object": "breaking rust off vacuum switching valve",
+        "start": 420.545,
+        "end": 433.55
+    },
+    {
+        "subject": "holding tank",
+        "predicate": "functions as",
+        "object": "gasoline vapor storage",
+        "start": 471.282,
+        "end": 486.271
+    },
+    {
+        "subject": "check valves",
+        "predicate": "prevent",
+        "object": "air from coming out",
+        "start": 471.282,
+        "end": 486.271
+    },
+    {
+        "subject": "EVAP system",
+        "predicate": "requires",
+        "object": "self-diagnostic",
+        "start": 486.591,
+        "end": 536.837
+    },
+    {
+        "subject": "check valves",
+        "predicate": "are used for",
+        "object": "opening the system to inspect components",
+        "start": 486.591,
+        "end": 536.837
+    },
+    {
+        "subject": "chuck valve",
+        "predicate": "contains",
+        "object": "spring and diaphragm",
+        "start": 486.591,
+        "end": 536.837
+    },
+    {
+        "subject": "air pressure",
+        "predicate": "causes",
+        "object": "the diaphragm to rise",
+        "start": 486.591,
+        "end": 536.837
+    },
+    {
+        "subject": "ball check valve",
+        "predicate": "releases pressure",
+        "object": "when a certain pressure is built up",
+        "start": 486.591,
+        "end": 536.837
+    },
+    {
+        "subject": "diaphragm",
+        "predicate": "allows air to escape",
+        "object": "through two ports",
+        "start": 486.591,
+        "end": 536.837
+    },
+    {
+        "subject": "diaphragm",
+        "predicate": "seals off",
+        "object": "air from entering the canister",
+        "start": 486.591,
+        "end": 536.837
+    },
+    {
+        "subject": "charcoal canister",
+        "predicate": "contains",
+        "object": "activated charcoal",
+        "start": 486.591,
+        "end": 536.837
+    },
+    {
+        "subject": "EVAP system",
+        "predicate": "works by",
+        "object": "allowing vapors to be absorbed through charcoal",
+        "start": 551.368,
+        "end": 584.197
+    },
+    {
+        "subject": "evap canister",
+        "predicate": "held in by",
+        "object": "two 12mm pieces of rust",
+        "start": 1.533,
+        "end": 19.129
+    },
+    {
+        "subject": "rear seat of the vehicle",
+        "predicate": "underneath",
+        "object": "gas tank location",
+        "start": 19.815,
+        "end": 32.579
+    },
+    {
+        "subject": "two 14mm bolts",
+        "predicate": "hold",
+        "object": "the strap onto the gas tank",
+        "start": 38.32,
+        "end": 45.022
+    },
+    {
+        "subject": "evap check valve",
+        "predicate": "has",
+        "object": "rust",
+        "start": 185.931,
+        "end": 210.072
+    },
+    {
+        "subject": "evap check valve",
+        "predicate": "has",
+        "object": "screws",
+        "start": 185.931,
+        "end": 210.072
+    },
+    {
+        "subject": "top lid",
+        "predicate": "contains",
+        "object": "spring",
+        "start": 185.931,
+        "end": 210.072
+    },
+    {
+        "subject": "top lid",
+        "predicate": "contains",
+        "object": "float",
+        "start": 185.931,
+        "end": 210.072
+    },
+    {
+        "subject": "fill_check_valve",
+        "predicate": "requires_removal_of",
+        "object": "six_rust_pieces",
+        "start": 210.292,
+        "end": 225.38
+    },
+    {
+        "subject": "rust_pieces",
+        "predicate": "are_located_around",
+        "object": "circumference",
+        "start": 210.292,
+        "end": 225.38
+    },
+    {
+        "subject": "rust_pieces",
+        "predicate": "need_to_be_removed_by",
+        "object": "stripping",
+        "start": 210.292,
+        "end": 225.38
+    },
+    {
+        "subject": "removal_process",
+        "predicate": "includes",
+        "object": "grinding",
+        "start": 210.292,
+        "end": 225.38
+    },
+    {
+        "subject": "grinding",
+        "predicate": "requires_care",
+        "object": "with_sparks",
+        "start": 210.292,
+        "end": 225.38
+    },
+    {
+        "subject": "overfill check valve",
+        "predicate": "functions_by",
+        "object": "allowing_vapors_to_escape",
+        "start": 225.54,
+        "end": 266.868
+    },
+    {
+        "subject": "float",
+        "predicate": "rises",
+        "object": "seals off vapor ventilation",
+        "start": 269.148,
+        "end": 287.501
+    },
+    {
+        "subject": "valve",
+        "predicate": "contains",
+        "object": "lid",
+        "start": 269.148,
+        "end": 287.501
+    },
+    {
+        "subject": "diaphragm",
+        "predicate": "moves",
+        "object": "up and down at atmospheric pressure",
+        "start": 287.741,
+        "end": 312.458
+    },
+    {
+        "subject": "baffle",
+        "predicate": "located inside",
+        "object": "the gas tank",
+        "start": 312.478,
+        "end": 330.622
+    },
+    {
+        "subject": "baffle",
+        "predicate": "main job",
+        "object": "prevent fuel from sloshing back and forth",
+        "start": 312.478,
+        "end": 330.622
+    },
+    {
+        "subject": "baffle",
+        "predicate": "fuel movement prevented during",
+        "object": "vehicle taking corners",
+        "start": 312.478,
+        "end": 330.622
+    },
+    {
+        "subject": "safety valve",
+        "predicate": "prevents",
+        "object": "excessive pressure in the tank",
+        "start": 393.173,
+        "end": 420.525
+    },
+    {
+        "subject": "filler neck",
+        "predicate": "contains",
+        "object": "hollow tube with a port for ventilation",
+        "start": 393.173,
+        "end": 420.525
+    },
+    {
+        "subject": "fuel tank vapor pressure sensor",
+        "predicate": "measures",
+        "object": "pressure difference between tank and atmospheric pressure",
+        "start": 393.173,
+        "end": 420.525
+    },
+    {
+        "subject": "vacuum switching valve",
+        "predicate": "has rust",
+        "object": "that needs to be broken off",
+        "start": 420.545,
+        "end": 433.55
+    },
+    {
+        "subject": "vacuum switching valve",
+        "predicate": "is used for",
+        "object": "changing on the vehicle",
+        "start": 434.11,
+        "end": 437.492
+    },
+    {
+        "subject": "holding tank",
+        "predicate": "function",
+        "object": "act as a storage for gasoline vapors",
+        "start": 471.282,
+        "end": 486.271
+    },
+    {
+        "subject": "charcoal",
+        "predicate": "role",
+        "object": "absorbing gasoline vapors",
+        "start": 471.282,
+        "end": 486.271
+    },
+    {
+        "subject": "check valves",
+        "predicate": "function",
+        "object": "allow air to go in but not out",
+        "start": 471.282,
+        "end": 486.271
+    },
+    {
+        "subject": "check valves",
+        "predicate": "are",
+        "object": "removed for inspection",
+        "start": 486.591,
+        "end": 536.837
+    },
+    {
+        "subject": "air pressure",
+        "predicate": "triggers",
+        "object": "ball check valve to open",
+        "start": 486.591,
+        "end": 536.837
+    },
+    {
+        "subject": "diaphragm",
+        "predicate": "responds to",
+        "object": "pressure and releases air",
+        "start": 486.591,
+        "end": 536.837
+    },
+    {
+        "subject": "diaphragm",
+        "predicate": "prevents",
+        "object": "air from entering when down",
+        "start": 486.591,
+        "end": 536.837
+    },
+    {
+        "subject": "charcoal canister",
+        "predicate": "removed",
+        "object": "for inspection",
+        "start": 486.591,
+        "end": 536.837
     }
 ]

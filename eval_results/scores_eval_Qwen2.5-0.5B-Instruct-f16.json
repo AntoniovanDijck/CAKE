@@ -1,0 +1,13 @@
+{
+    "llm_model": "Qwen2.5-0.5B-Instruct-f16",
+    "total_questions": 28,
+    "scores": {
+        "llm_with_kb": 19,
+        "llm_without_kb": 19
+    },
+    "accuracy": {
+        "llm_with_kb": "67.86%",
+        "llm_without_kb": "67.86%"
+    },
+    "improvement": "0.00%"
+}

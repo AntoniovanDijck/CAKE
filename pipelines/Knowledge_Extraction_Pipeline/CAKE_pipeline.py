@@ -12,6 +12,9 @@ def Knowledge_Extraction_Pipeline():
     # 2. Extract Knowledge from Each Chunk
     knowledge_extractor = KnowledgeExtractor()
 
+    # Start processing all chunks for eval 
+    all_generated_questions = []  # Store all questions
+
     for i, chunk in enumerate(chunks, start=1):
         text = chunk.get("text", "")
         start_time = chunk.get("start")
@@ -23,13 +26,28 @@ def Knowledge_Extraction_Pipeline():
         extracted_knowledge = knowledge_extractor.extract_valuable_knowledge(text)
 
         if extracted_knowledge:
+
             # Attach the chunk's start/end to each extracted item
+
             for triplet in extracted_knowledge:
                 triplet['start'] = start_time
                 triplet['end'] = end_time
 
             # Save the extracted knowledge
             knowledge_extractor.save_knowledge(extracted_knowledge)
+            triplet_text = str([f"{t['subject']} {t['predicate']} {t['object']}" for t in extracted_knowledge])
+            generated_questions  = knowledge_extractor.create_questions_from_chunk(triplet_text)
+
+            # Append questions to the list
+            if generated_questions:
+                all_generated_questions.extend(generated_questions)
+                print(f"Generated {len(generated_questions)} questions from chunk {i}.")
+
+            else:
+
+                print(f"No questions generated for chunk {i}.")
+
+    knowledge_extractor.save_questions_to_file(all_generated_questions)
 
     print("\nKnowledge extraction complete.")
     print("Please check 'knowledge.json' for the extracted valuable knowledge.")

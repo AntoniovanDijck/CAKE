@@ -1,0 +1,13 @@
+{
+    "llm_model": "gemma-2-2b-it.F16",
+    "total_questions": 28,
+    "scores": {
+        "llm_with_kb": 20,
+        "llm_without_kb": 20
+    },
+    "accuracy": {
+        "llm_with_kb": "71.43%",
+        "llm_without_kb": "71.43%"
+    },
+    "improvement": "0.00%"
+}

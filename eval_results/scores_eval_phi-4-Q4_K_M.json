@@ -1,0 +1,13 @@
+{
+    "llm_model": "phi-4-Q4_K_M",
+    "total_questions": 28,
+    "scores": {
+        "llm_with_kb": 20,
+        "llm_without_kb": 18
+    },
+    "accuracy": {
+        "llm_with_kb": "71.43%",
+        "llm_without_kb": "64.29%"
+    },
+    "improvement": "7.14%"
+}
