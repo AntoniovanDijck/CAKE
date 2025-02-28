@@ -88,6 +88,12 @@ python main.py -chat
 python main.py -run_all
 ```
 
+### Changing the data
+```bash
+# Change video_url in main.py to the desired video link
+video_url = "https://www.youtube.com/watch?v=example"
+
+```
 
 ### Evaluating Additional Models
 To evaluate more additional **LLM models**, place their **GGUF** files inside the \`models/\` directory. The evaluation script will automatically detect and include them in the evaluation.
@@ -102,6 +108,20 @@ python main.py -eval
 ```
 
 The script loads all available models in the `models/` folder and runs the evaluation process.
+
+### Running the CAKE demo web application
+The CAKE demo web application provides an interactive interface to test the knowledge extraction pipeline and chatbot functionality. The web application also has a visualizer for the extracted knowledge base, the web application is built using React and Flask.
+```bash
+# Run install dependencies
+cd CAKE_webapp
+pip install -r requirements.txt
+npm install
+
+# Run the web application
+# Don't forget to put a openAI API key in the backend/app.py file!
+npm run dev & python backend/app.py
+```
+
 
 ## Results & Findings
 The framework successfully extracts and structures critical knowledge, leading to improved accuracy in LLM-generated responses. The FAISS-based retrieval system enhances real-time knowledge access for technical support applications, reducing dependency on static documentation or Retrieval Augmented Generation (RAG).
