@@ -10,7 +10,7 @@ import faiss
 import numpy as np
 from json import JSONDecodeError
 
-# LLama model inladen van hugginface en downloaden id map
+# model check
 llm = Llama.from_pretrained(
     repo_id="bartowski/Qwen2.5-7B-Instruct-GGUF",
     filename="*Q4_K_M.gguf",
@@ -39,7 +39,6 @@ class Evaluationes:
         self.messages_file = messages_file
         self.knowledge_file = knowledge_file
         self.faiss_index_file = faiss_index_file
-        # Instantiate LlamaSingleton with the provided model path
         self.llm = LlamaSingleton(model_path=llm_model_path).llm
         self.model = SentenceTransformer(model_name)
         self.index = None
@@ -77,6 +76,7 @@ class Evaluationes:
             results.append(self.knowledge_data[idx])
         return results
 
+    # generate response with knowledge base
     def generate_response_with_kb(self, user_message):
         knowledge_matches = self.search_knowledge(user_message, top_k=5)
         current_time = datetime.utcnow().isoformat()
@@ -96,6 +96,7 @@ class Evaluationes:
         )['choices'][0]['message']['content']
         return response
 
+    # generate response without knowledge base for eval
     def generate_response_without_kb(self, user_message):
         current_time = datetime.utcnow().isoformat()
         system_message = f"Current date and time: {current_time}\n"
@@ -113,41 +114,41 @@ def run_evaluation(llm_model_path, questions_path):
     with open(questions_path, 'r', encoding='utf-8') as f:
         questions = json.load(f)
 
-    # Chatbot using the provided model path
+    # evalution llm using the provided model path
     chatbot = Evaluationes(llm_model_path=llm_model_path)
 
     # Loop over all questions
     for question in questions:
-        # Compose a prompt that includes the question text and options.
+        # make a prompt that includes the question text and options.
         prompt = f"Question: {question['question']}\nOptions:\n"
         for idx, opt in enumerate(question['options']):
             # prompt += f"{idx+1}. {opt}\n"         # This is the original line but this has 1.2.3.4 before the options: this is not nice for the eval.
             prompt += f"{opt}\n"
 
-        # Generate responses using the two methods.
+        # Generate responses using the two new functions
         response_with_kb = chatbot.generate_response_with_kb(prompt)
         response_without_kb = chatbot.generate_response_without_kb(prompt)
 
-        # Add the responses to the question JSON object.
+        # Add the responses to the question JSON object
         question["llm_answer_with_kb"] = response_with_kb
         question["llm_answer_without_kb"] = response_without_kb
 
-    # Derive the LLM name from the model path.
+    # LLm name
     llm_name = os.path.splitext(os.path.basename(llm_model_path))[0]
     result_filename = f"result_eval_{llm_name}.json"
 
-    # Save the updated questions JSON to the new file.
+    # Save the updated questions JSON to the new file
     with open(result_filename, 'w', encoding='utf-8') as f:
         json.dump(questions, f, indent=4)
 
-    # Calculate the accuracy of the LLM with and without KB.
+    # Calculate the accuracy of the LLM with and without KB for the questions
     scores = {"llm_with_kb": 0, "llm_without_kb": 0}
     total_questions = len(questions)
 
     for question in questions:
         correct_answer = question["correct_answer"].lower()
 
-        # Check if the generated responses match the correct answer.
+        # Check if the generated responses match the correct answer and lower
         if correct_answer in question["llm_answer_with_kb"].lower():
             scores["llm_with_kb"] += 1
         if correct_answer in question["llm_answer_without_kb"].lower():
@@ -158,7 +159,7 @@ def run_evaluation(llm_model_path, questions_path):
 
     improvement = accuracy_with_kb - accuracy_without_kb
 
-    # Create a result summary dictionary
+    # create a resulting dictionary
     evaluation_results = {
         "llm_model": llm_name,
         "total_questions": total_questions,

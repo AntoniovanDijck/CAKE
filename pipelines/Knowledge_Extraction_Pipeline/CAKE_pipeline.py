@@ -3,13 +3,13 @@ import json
 import os
 
 def Knowledge_Extraction_Pipeline():
-    # 1. Load the chunks from output_chunks.json
+    # Load the chunks from output_chunks.json
     with open('pipelines/Semantic_Context_Transcription_Pipeline/result/output_audio_1_chunks.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
     chunks = data.get("chunks", [])
     print(f"Total chunks loaded: {len(chunks)}")
 
-    # 2. Extract Knowledge from Each Chunk
+    # Extract Knowledge from Each Chunk
     knowledge_extractor = KnowledgeExtractor()
 
     # Start processing all chunks for eval 

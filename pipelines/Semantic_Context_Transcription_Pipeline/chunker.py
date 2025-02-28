@@ -3,9 +3,7 @@ import json
 from chonkie import SDPMChunker
 
 def load_document(file_path: str) -> str:
-    """
-    Load the content of the document from the given file path.
-    """
+
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"The file '{file_path}' does not exist.")
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -13,9 +11,7 @@ def load_document(file_path: str) -> str:
     return content
 
 def load_json(file_path: str) -> dict:
-    """
-    Load and parse a JSON file.
-    """
+
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"Error: The JSON file '{file_path}' does not exist.")
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -25,9 +21,6 @@ def load_json(file_path: str) -> dict:
             raise ValueError(f"Error: Failed to decode JSON file. Details: {e}")
 
 def create_chunker(embedding_model="minishlab/potion-base-8M", chunk_size=512, min_sentences=1):
-    """
-    Create and return an instance of SDPMChunker with specified parameters.
-    """
     return SDPMChunker(
         embedding_model=embedding_model,
         chunk_size=chunk_size,
@@ -35,9 +28,6 @@ def create_chunker(embedding_model="minishlab/potion-base-8M", chunk_size=512, m
     )
 
 def process_text_and_json(text_folder: str, json_folder: str, output_folder: str):
-    """
-    Process text and JSON files to create timestamped chunked outputs.
-    """
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 

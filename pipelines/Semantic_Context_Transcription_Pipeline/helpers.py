@@ -3,9 +3,7 @@ from pydub import AudioSegment
 import subprocess
 
 def download_and_convert_to_wav(youtube_url, output_wav_path):
-    """
-    Downloads audio from a YouTube URL and converts it to WAV format.
-    """
+
     print(f"Downloading audio from {youtube_url}...")
     audio_file = "temp_audio.mp4"  # Temporary file
     os.system(f'yt-dlp -f "worstaudio" -o "{audio_file}" "{youtube_url}"')
@@ -18,9 +16,7 @@ def download_and_convert_to_wav(youtube_url, output_wav_path):
     print(f"Conversion complete! WAV file saved to: {output_wav_path}")
 
 def download_video(youtube_url, output_video_path):
-    """
-    Downloads the best available video (without audio) from a YouTube URL.
-    """
+
     try:
         print(f"Downloading video from {youtube_url} (high quality video only)...")
         output_template = "temp_video.mp4"
@@ -41,9 +37,7 @@ def download_video(youtube_url, output_video_path):
         print(f"Error downloading video: {e}")
 
 def process_links_from_file(input_link):
-    """
-    Reads YouTube links from a file and processes each one.
-    """
+
     os.makedirs("pipelines/Semantic_Context_Transcription_Pipeline/data/audio_data", exist_ok=True)
     os.makedirs("pipelines/Semantic_Context_Transcription_Pipeline/data/video_data", exist_ok=True)
 
