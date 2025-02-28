@@ -23,7 +23,7 @@ class Chatbot:
         self.messages_file = messages_file
         self.knowledge_file = knowledge_file
         self.faiss_index_file = faiss_index_file
-        self.client = OpenAI(api_key="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")
+        self.client = OpenAI(api_key="")
         self.model = SentenceTransformer(model_name)
         self.index = None
         self.knowledge_data = []
