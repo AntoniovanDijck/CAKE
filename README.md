@@ -111,7 +111,9 @@ The CAKE demo web application provides an interactive interface to test the know
 #### Run install dependencies
 ```bash
 cd CAKE_webapp
+
 pip install -r requirements.txt
+
 npm install
 ```
 
