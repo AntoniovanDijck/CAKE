@@ -110,13 +110,15 @@ The script loads all available models in the `models/` folder and runs the evalu
 
 ### Running the CAKE demo web application
 The CAKE demo web application provides an interactive interface to test the knowledge extraction pipeline and chatbot functionality. The web application also has a visualizer for the extracted knowledge base, the web application is built using React and Flask.
-```bash
+
 # Run install dependencies
+```bash
 cd CAKE_webapp
 pip install -r requirements.txt
 npm install
 ```
 
+# Run the web application and flask server
 ```bash
 # Run the web application
 # Don't forget to put a openAI API key in the backend/app.py file!
