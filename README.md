@@ -1,5 +1,4 @@
 # CAKE: Context-Aware Knowledge Extraction
-
 ## Improving the Performance of LLMs with Knowledge Extraction
 
 ## Overview
