@@ -121,7 +121,7 @@ I would like to express my sincere gratitude to my supervisors, **Dr. S. van Spl
 **Faculty of Science**  
 
 ### Supervisors  
-**Dr. J. Helmus**  
+**Dr. Ir. J.R. Helmus**  
 **Dr. S. van Splunter**  
 **Informatics Institute**  
 **Faculty of Science**  
