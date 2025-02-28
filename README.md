@@ -47,6 +47,13 @@ This research introduces a Context-Aware Knowledge Extraction pipeline that auto
 - Exploration of knowledge graphs and their role for Large Language Models.
 
 ## Usage
+### Clone the Repository
+```bash
+git clone https://github.com/AntoniovanDijck/CAKE.git
+cd CAKE
+```
+
+
 
 ### Running the CAKE Pipeline
 The CAKE pipeline provides flexibility to execute different components as needed. You can run the **knowledge extraction pipeline**, **evaluate the pipeline**, and **test extracted knowledge via chatbot** using command-line arguments.
@@ -126,3 +133,7 @@ I would like to express my sincere gratitude to my supervisors, **Dr. S. van Spl
 **Informatics Institute**  
 **Faculty of Science**  
 **University of Amsterdam**
+
+##Contributors
+**Antonio Adrian Cornelis van Dijck**: Context-Aware Knowledge Extraction Framework 
+**Jesse van Schouten**: - Semantic Context Transcription Pipeline
