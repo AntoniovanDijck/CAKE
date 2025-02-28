@@ -125,6 +125,9 @@ npm install
 npm run dev & python backend/app.py
 ```
 
+### Notebooks
+The notebooks directory contains Jupyter notebooks for the different components of the CAKE pipeline. These notebooks give a detailed explanation of the code and the underlying concepts that were developed during the research.
+
 
 ## Results & Findings
 The framework successfully extracts and structures critical knowledge, leading to improved accuracy in LLM-generated responses. The FAISS-based retrieval system enhances real-time knowledge access for technical support applications, reducing dependency on static documentation or Retrieval Augmented Generation (RAG).
