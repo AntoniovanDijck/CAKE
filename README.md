@@ -54,20 +54,20 @@ The CAKE pipeline provides flexibility to execute different components as needed
 ### Install Dependencies
 Before running the pipeline, install the required dependencies:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### Running Specific Components
 Use the following command-line arguments to run specific components:
 
-- \`-run\` → Run the **knowledge extraction pipeline**.
-- \`-eval\` → Run the **evaluation process**.
-- \`-chat\` → Test the extracted knowledge with a **chatbot interface**.
-- \`-run_all\` → Run **all components** (pipeline, evaluation, and chatbot).
+- `-run` → Run the **knowledge extraction pipeline**.
+- `-eval` → Run the **evaluation process**.
+- `-chat` → Test the extracted knowledge with a **chatbot interface**.
+- `-run_all` → Run **all components** (pipeline, evaluation, and chatbot).
 
 #### Example Commands:
-\`\`\`bash
+```bash
 # Run the full pipeline
 python main.py -run
 
@@ -79,22 +79,22 @@ python main.py -chat
 
 # Run all components (pipeline, evaluation, and chatbot)
 python main.py -run_all
-\`\`\`
+```
 
 
 ### Evaluating Additional Models
 To evaluate more additional **LLM models**, place their **GGUF** files inside the \`models/\` directory. The evaluation script will automatically detect and include them in the evaluation.
 
-\`\`\`bash
+```bash
 # Place GGUF model files in the 'models/' directory
 
 ./pipelines/Knowledge_Extraction_Pipeline/data/models/
 
 # Run the evaluation script
 python main.py -eval
-\`\`\`
+```
 
-The script loads all available models in the \`models/\` folder and runs the evaluation process.
+The script loads all available models in the `models/` folder and runs the evaluation process.
 
 ## Results & Findings
 The framework successfully extracts and structures critical knowledge, leading to improved accuracy in LLM-generated responses. The FAISS-based retrieval system enhances real-time knowledge access for technical support applications, reducing dependency on static documentation or Retrieval Augmented Generation (RAG).
