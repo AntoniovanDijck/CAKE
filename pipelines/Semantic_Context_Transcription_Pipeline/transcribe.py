@@ -1,3 +1,11 @@
+"""
+Antonio van Dijck
+studentnumber: 12717673
+Email: antonio.van.dijck@student.uva.nl
+
+The transcribe.py file is a component of the Semantic_Context_Transcription_Pipeline that transcribes audio files to text.
+"""
+
 import whisperx
 import gc
 import torch

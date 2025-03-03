@@ -1,3 +1,11 @@
+"""
+Antonio van Dijck
+studentnumber: 12717673
+Email: antonio.van.dijck@student.uva.nl
+
+The file contains the semantic chunker, a component of the CAKE pipeline is used to chunk the full text into smaller segments for further processing.
+"""
+
 import os
 import json
 from chonkie import SDPMChunker

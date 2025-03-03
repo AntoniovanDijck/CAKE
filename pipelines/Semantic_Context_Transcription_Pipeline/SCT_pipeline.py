@@ -1,3 +1,11 @@
+"""
+Antonio van Dijck
+studentnumber: 12717673
+Email: antonio.van.dijck@student.uva.nl
+
+The scripts in this pipeline are used to transcribe audio data, convert transcriptions to full text, and process the full text to extract valuable knowledge.
+"""
+
 from .helpers import *
 from .transcribe import *
 from .full_text import *

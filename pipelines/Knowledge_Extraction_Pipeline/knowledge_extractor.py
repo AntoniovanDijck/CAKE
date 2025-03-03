@@ -1,3 +1,11 @@
+"""
+Antonio van Dijck
+studentnumber: 12717673
+Email: antonio.van.dijck@student.uva.nl
+
+The knowledge extractor is a component of the CAKE pipeline that extracts valuable
+"""
+
 from llama_cpp import Llama
 import json
 import os

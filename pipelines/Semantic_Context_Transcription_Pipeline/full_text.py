@@ -1,3 +1,11 @@
+"""
+Antonio van Dijck
+studentnumber: 12717673
+Email: antonio.van.dijck@student.uva.nl
+
+A helper script to convert transcriptions to full text.
+"""
+
 import os
 import json
 

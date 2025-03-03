@@ -1,3 +1,11 @@
+"""
+Antonio van Dijck
+studentnumber: 12717673
+Email: antonio.van.dijck@student.uva.nl
+
+The Chatbot is a component of the CAKE pipeline that allows the user to chat with the system and extract valuable knowledge from the conversation.
+"""
+
 import json
 import os
 import pickle

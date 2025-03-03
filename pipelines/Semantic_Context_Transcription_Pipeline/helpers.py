@@ -1,3 +1,11 @@
+"""
+Antonio van Dijck
+studentnumber: 12717673
+Email: antonio.van.dijck@student.uva.nl
+
+Helper functions to download audio and video data from YouTube links.
+"""
+
 import os
 from pydub import AudioSegment
 import subprocess

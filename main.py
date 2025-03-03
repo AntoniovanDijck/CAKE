@@ -1,3 +1,11 @@
+"""
+Antonio van Dijck
+studentnumber: 12717673
+Email: antonio.van.dijck@student.uva.nl
+
+The main file to run the different components of the CAKE pipeline.
+"""
+
 import argparse
 from pipelines.ContextAware_Knowledge_Extraction_Pipeline import CAKE
 

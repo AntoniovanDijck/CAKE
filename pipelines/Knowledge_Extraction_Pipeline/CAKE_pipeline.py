@@ -1,3 +1,11 @@
+"""
+Antonio van Dijck
+studentnumber: 12717673
+Email: antonio.van.dijck@student.uva.nl
+
+The Knowledge Extraction Pipeline is a component of the CAKE pipeline that extracts valuable knowledge from the transcribed text.
+"""
+
 from .knowledge_extractor import *
 import json
 import os

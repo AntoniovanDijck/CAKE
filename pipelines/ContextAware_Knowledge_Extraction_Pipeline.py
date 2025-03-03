@@ -1,3 +1,11 @@
+"""
+Antonio van Dijck
+studentnumber: 12717673
+Email: antonio.van.dijck@student.uva.nl
+
+The class CAKE is the CAKE pipeline that runs the ContextAware_Knowledge_Extraction_Pipeline and the Knowledge_Extraction_Pipeline as a whole.
+"""
+
 from .Semantic_Context_Transcription_Pipeline.SCT_pipeline import *
 from .Knowledge_Extraction_Pipeline.CAKE_pipeline import *
 from .Knowledge_Extraction_Pipeline.chat import *

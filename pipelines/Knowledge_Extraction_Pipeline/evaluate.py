@@ -1,3 +1,11 @@
+"""
+Antonio van Dijck
+studentnumber: 12717673
+Email: antonio.van.dijck@student.uva.nl
+
+The evaluation script is a component of the CAKE pipeline that evaluates the performance of the LLM with and without knowledge base.
+"""
+
 import json
 import os
 import pickle
